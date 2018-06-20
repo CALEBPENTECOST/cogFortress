@@ -1,0 +1,4 @@
+# Git typically ignores these. We need to un-ignore them
+# Its basically a trade-off: We want conveneince, and will take the hit to our download time
+!*.exe
+!*.dll
