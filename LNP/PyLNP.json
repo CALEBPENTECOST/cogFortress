@@ -1,0 +1,215 @@
+{
+  "folders": [
+    [
+      "Main folder",
+      ""
+    ],
+    [
+      "Dwarf Fortress folder",
+      "<df>"
+    ],
+    [
+      "LNP folder",
+      "LNP"
+    ],
+    [
+      "-",
+      "-"
+    ],
+    [
+      "Savegame folder",
+      "<df>/data/save"
+    ],
+    [
+      "Utilities folder",
+      "LNP/Utilities"
+    ],
+    [
+      "Graphics folder",
+      "LNP/Graphics"
+    ],
+    [
+      "Init folder",
+      "<df>/data/init"
+    ]
+  ],
+  "dfhack": {
+    "Enhanced Gameplay": {
+      "file": "onMapLoad",
+      "enabled": false,
+      "tooltip": "Adds Human merchants (more trade deals) and Elvish diplomats (logging quotas)",
+      "command": "multicmd fix/merchants; fix/diplomats"
+    },
+    "Performance Tweaks": {
+      "file": "onMapLoad",
+      "tooltip": "DFHack fixes to run regularly, changes the game a little but helps a lot on old or slow hardware.\n(fast-heat, dump worn items, remove all contaminants)",
+      "command": "multicmd tweak fast-heat 100; repeat -time 1 -timeUnits months -command [ multicmd cleanowned X ; clean all ]"
+    },
+    "Stonesense Isometric view": {
+      "file": "onMapLoad",
+      "tooltip": "Opens an isometric visualiser in a separate window.\nRun it in the game window with 'ssense overlay'!",
+      "command": "ssense"
+    },
+    "Multilevel View": {
+      "file": "onMapLoad",
+      "enabled": true,
+      "tooltip": "View multiple (5) Z-levels at a time.\nRequires PRINT_MODE:TWBT (see graphics tab).\nMay cause crashes for some users.",
+      "command": "multilevel 5"
+    },
+    "Other Automation plugins": {
+      "file": "onMapLoad",
+      "tooltip": "more automation plugins - autonestbox, burial",
+      "command": "multicmd autonestbox start; repeat -time 7 -timeUnits days -command [ burial ] -name burial"
+    },
+    "Mouse Controls": {
+      "tooltip": "allows scrolling by hovering near edge of map - pair with 'laptop with mouse' keybindings",
+      "command": "mousequery edge enable"
+    },
+    "Hide DFHack Console": {
+      "tooltip": "Hides the DFHack console window.  Ctrl-Shift-P and \"show\" to reverse.",
+      "command": "hide"
+    },
+    "Automatic Job Assignments": {
+      "file": "onMapLoad",
+      "tooltip": "The labormanager plugin automates job assignments, replacing tools such as Dwarf Therapist",
+      "command": "enable labormanager"
+    }
+  },
+  "hideUtilityExt": false,
+  "hideUtilityPath": true,
+  "updates": {
+    "updateMethod": "dffd",
+    "dffdID": "7622",
+    "packVersion": "0.44.10-r03",
+    "defaultInterval": 0
+  },
+  "to_import": [
+    [
+      "text_prepend",
+      "<df>/gamelog.txt"
+    ],
+    [
+      "text_prepend",
+      "<df>/ss_fix.log"
+    ],
+    [
+      "text_prepend",
+      "<df>/dfhack.history"
+    ],
+    [
+      "copy_add",
+      "<df>/data/save"
+    ],
+    [
+      "copy_add",
+      "<df>/soundsense",
+      "LNP/Utilities/Soundsense/packs"
+    ],
+    [
+      "copy_add",
+      "User Generated Content"
+    ],
+    [
+      "copy_add",
+      "LNP/Utilities/Soundsense/packs"
+    ]
+  ],
+  "links": [
+    [
+      "DF Homepage",
+      "http://www.bay12games.com/dwarves"
+    ],
+    [
+      "This Pack's homepage",
+      "http://www.bay12forums.com/smf/index.php?topic=126076"
+    ],
+    [
+      "Support this pack!",
+      "https://www.patreon.com/PeridexisErrant"
+    ],
+    [
+      "-",
+      "-"
+    ],
+    [
+      "DF Forums",
+      "http://www.bay12forums.com/smf/"
+    ],
+    [
+      "DF Wiki",
+      "http://dwarffortresswiki.org/Quickstart_guide"
+    ],
+    [
+      "DF on Reddit",
+      "https://www.reddit.com/r/dwarffortress"
+    ],
+    [
+      "DF Map Archive",
+      "http://mkv25.net/dfma"
+    ],
+    [
+      "DFHack readme",
+      "https://dfhack.readthedocs.org"
+    ],
+    [
+      "DF on TvTropes",
+      "http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DwarfFortress"
+    ],
+    [
+      "-",
+      "-"
+    ],
+    [
+      "PeridexisErrant's DF Tutorials",
+      "https://df-walkthrough.readthedocs.org"
+    ],
+    [
+      "CptnDuck's Tutorial vids",
+      "https://www.youtube.com/playlist?list=PL0sBhCMFBvPlF7wG7OH-NFQKMeCQiS8aM"
+    ],
+    [
+      "DasTactic's Tutorial vids",
+      "https://www.youtube.com/playlist?list=PLGB6RkFB7ZmNbSUujzXbgNjJi_-WHTTTD"
+    ],
+    [
+      "Getting Started (book)",
+      "http://shop.oreilly.com/product/0636920022565.do"
+    ],
+    [
+      "-",
+      "-"
+    ],
+    [
+      "DF Stories (1)",
+      "http://dfstories.com/all-stories"
+    ],
+    [
+      "DF Stories (2)",
+      "http://dfst.org"
+    ],
+    [
+      "Hall of Legends",
+      "http://www.bay12forums.com/smf/index.php?topic=89305"
+    ],
+    [
+      "-",
+      "-"
+    ],
+    [
+      "More graphics packs",
+      "https://github.com/Lazy-Newb-Pack/DFgraphics/releases"
+    ],
+    [
+      "Even more graphics",
+      "http://www.bay12forums.com/smf/index.php?board=28"
+    ],
+    [
+      "Look for mods",
+      "http://www.bay12forums.com/smf/index.php?board=27"
+    ],
+    [
+      "Get more utilities",
+      "http://www.bay12forums.com/smf/index.php?board=29"
+    ]
+  ]
+}

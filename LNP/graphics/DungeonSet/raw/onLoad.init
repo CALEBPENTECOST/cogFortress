@@ -1,0 +1,4 @@
+multilevel 5
+multilevel shadowcolor 0 0 0 0.6
+multilevel fogcolor 0 0 0.1
+multilevel fogdensity 0.4 0.3 1

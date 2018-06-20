@@ -1,0 +1,8 @@
+{
+    "content_version": "23",
+    "tooltip": "A high-resolution square ACSII set with character-based sprites.\nCLA combines the elegance ASCII with the beauty and variety of graphic sets.",
+    "author": "CLA",
+    "title": "CLA 18px",
+    "folder_prefix": "CLA",
+    "df_min_version": "0.44.01"
+}

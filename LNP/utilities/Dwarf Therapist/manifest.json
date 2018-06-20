@@ -1,0 +1,10 @@
+{
+    "content_version": "40.0.0",
+    "tooltip": "Makes managing your dwarves' jobs and psychology easy! (NB - DFHack \"labormanager\" must be disabled).",
+    "author": "Multiple authors",
+    "title": "Dwarf Therapist",
+    "readme": "doc/Dwarf Therapist.pdf",
+    "win_exe": "DwarfTherapist.exe",
+    "df_max_version": "0.44.10",
+    "df_min_version": "0.42.01"
+}

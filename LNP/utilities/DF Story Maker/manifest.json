@@ -1,0 +1,6 @@
+{
+    "content_version": "1.0",
+    "title": "DF Story Maker",
+    "tooltip": "Story Maker:Creates a filtered version of the gamelog, great for... making stories.",
+    "win_exe": "DFStoryMaker.exe"
+}

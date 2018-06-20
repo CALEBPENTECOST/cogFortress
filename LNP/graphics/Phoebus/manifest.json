@@ -1,0 +1,10 @@
+{
+    "content_version": "2018-03-14",
+    "tooltip": "Neither stylised nor ornate, with a sprite for everything.",
+    "author": "Phoebus",
+    "url": "https://github.com/DFgraphics/Phoebus",
+    "title": "Phoebus 16x",
+    "folder_prefix": "Phoebus",
+    "df_max_version": "0.44.10",
+    "df_min_version": "0.44.07"
+}

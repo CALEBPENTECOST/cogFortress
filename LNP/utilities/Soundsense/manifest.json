@@ -1,0 +1,8 @@
+{
+    "content_version": "2016-1",
+    "osx_exe": "autoUpdater.jar",
+    "tooltip": "A Sound+Music engine for DF - it reads the gamelog, and plays appropriate sounds and seasonal music.",
+    "title": "Soundsense",
+    "win_exe": "soundSense.exe",
+    "linux_exe": "soundSense.sh"
+}
