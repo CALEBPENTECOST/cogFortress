@@ -1,8 +1,2 @@
 Running PyLNP 0.13 (OS: win, Compiled: True)
-WARNING: JSONConfiguration: File PyLNP.user does not exist
-INFO: Installing extras content for first time
-INFO: Read installed graphics (Phoebus) from log
-INFO: ASCII graphics added (small mod compatibility risk)
-INFO: Safely updated graphics raws .\Dwarf Fortress 0.44.10\raw to ASCII
-INFO: Loading colorscheme .\LNP\Graphics\ASCII\data\init\colors.txt
 INFO: Read installed graphics (ASCII) from log
