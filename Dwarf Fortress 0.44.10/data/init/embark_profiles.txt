@@ -684,3 +684,5 @@ Simple defaults for new players; designed to give you an easy start with better 
     [PET:1:CAT:MALE:STANDARD]
     [PET:1:PIG:FEMALE:STANDARD]
     [PET:1:PIG:MALE:STANDARD]
+
+
