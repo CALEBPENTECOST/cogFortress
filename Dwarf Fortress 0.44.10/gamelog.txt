@@ -6,3 +6,44 @@ Generating world using parameter set CREATE WORLD NOW = 1334534
  History Seed: iyAAA2uuuu6qy2Aummu2
  Name Seed: mqiiu6y6m6mmiiuy22mA
  Creature Seed: 2AqAAi22uqmqy6qyyiqA
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+Sarvesh Rulush•nul has become a Miner.
+There is nothing to catch in the southwestern swamps.
+Ilral Duthnural†th, Fisherdwarf cancels Fish: Dangerous terrain.
+You have struck jet!
+x2
+Ilral Duthnural†th, Fisherdwarf cancels Store Item in Stockpile: Dangerous terrain.
+Sodel Thortithdoren, Woodcutter cancels Store Item in Stockpile: Item inaccessible.
+Ilral Duthnural†th, Fisherdwarf cancels Drink: Dangerous terrain.
+x2
+x3
+x4
+You have struck hematite!
+You have struck jet!
+Ilral Duthnural†th, Fisherdwarf cancels Fish: Dangerous terrain.
+It is now summer.
+There is nothing to catch in the western swamps.
+Sodel Thortithdoren, Woodcutter cancels Store Item in Stockpile: Drop-off inaccessible.
+Moldath Nugrethm”rul, Fish Cleaner cancels Store Item in Stockpile: Drop-off inaccessible.
+Sibrek L•rid, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Avuz Engigkikrost, Stoneworker cancels Store Item in Stockpile: Item inaccessible.
+x2
+** Loading Fortress **
+You have struck jet!
+You have struck hematite!
+You have struck jet!
+You have struck bituminous coal!
+Some migrants have arrived.
+Avuz Engigkikrost has become a Carpenter.
+You have struck jet!
+x2
+x3
+Sodel Thortithdoren, Woodcutter cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+x8

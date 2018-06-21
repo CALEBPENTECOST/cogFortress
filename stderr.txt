@@ -1,2 +1,8 @@
 Running PyLNP 0.13 (OS: win, Compiled: True)
 INFO: Read installed graphics (ASCII) from log
+INFO: Phoebus graphics added (small mod compatibility risk)
+INFO: Safely updated graphics raws .\Dwarf Fortress 0.44.10\raw to Phoebus
+INFO: Loading colorscheme .\LNP\Graphics\Phoebus\data\init\colors.txt
+INFO: Read installed graphics (Phoebus) from log
+INFO: Safely updated graphics raws .\Dwarf Fortress 0.44.10\data\save\region1\raw to Phoebus
+INFO: Read installed graphics (Phoebus) from log

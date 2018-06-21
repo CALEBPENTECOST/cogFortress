@@ -1,0 +1,2 @@
+path fail: giant cave toad,22,25,25 -> 21,26,26: Id #732:Path Goal Marauder Mill:Station None at 22,25,25
+path fail: sturgeon,4,180,91 -> 15,173,91: Id #698:Path Goal Marauder Mill:Station Marauder Mill at 15,173,91
