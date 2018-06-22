@@ -1,2 +1,48 @@
 path fail: giant cave toad,22,25,25 -> 21,26,26: Id #732:Path Goal Marauder Mill:Station None at 22,25,25
 path fail: sturgeon,4,180,91 -> 15,173,91: Id #698:Path Goal Marauder Mill:Station Marauder Mill at 15,173,91
+path fail: dwarf,2,182,91 -> 7,181,91: Id #957:Path Goal Seek Station Flood:Station Owner at 7,181,91
+path fail: elk bird,40,161,16 -> 43,163,21: Id #1019:Path Goal Marauder Mill:Station Marauder Mill at 43,163,21
+path fail: dwarf,Hunt,0,182,91 -> 2,179,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 34,108,89
+path fail: dwarf,Hunt,109,183,93 -> 2,179,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,0,181,91 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,1,181,91 -> 2,179,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 33,109,89
+path fail: dwarf,Hunt,2,113,92 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,107,89
+path fail: dwarf,Hunt,47,106,87 -> 2,179,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 33,108,89
+path fail: dwarf,Hunt,54,101,87 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,0,182,91 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,51,106,87 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,1,181,91 -> 2,179,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 33,108,89
+path fail: dwarf,Hunt,1,182,91 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,2,181,91 -> 2,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 36,109,89
+path fail: dwarf,Hunt,54,95,87 -> 2,180,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 38,110,89
+path fail: dwarf,Hunt,3,183,92 -> 2,180,91: Id #1032:Path Goal Seek Hunting Target:Station Mill Building at 38,107,89
+path fail: dwarf,Return Kill,34,87,88 -> 153,26,21: Id #1039:Path Goal Grab Kill:Station Mill Building at 37,107,89
+path fail: dwarf,Return Kill,30,115,92 -> 141,6,21: Id #1039:Path Goal Grab Kill:Station Mill Building at 37,107,89
+path fail: dwarf,Hunt,0,182,91 -> 2,180,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 37,107,89
+path fail: dwarf,Return Kill,75,180,92 -> 112,15,21: Id #1039:Path Goal Grab Kill:Station Mill Building at 33,110,89
+path fail: dwarf,Return Kill,41,106,92 -> 142,78,21: Id #1032:Path Goal Grab Kill:Station Mill Building at 38,107,89
+path fail: dwarf,Return Kill,30,132,92 -> 133,60,22: Id #1032:Path Goal Grab Kill:Station Mill Building at 38,107,89
+path fail: dwarf,Return Kill,19,174,92 -> 159,56,21: Id #1032:Path Goal Grab Kill:Station Mill Building at 38,107,89
+path fail: dwarf,Hunt,46,108,88 -> 1,179,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 35,108,89
+path fail: dwarf,Hunt,0,179,91 -> 1,180,91: Id #1039:Path Goal Seek Hunting Target:Station Mill Building at 34,107,89
+path fail: giant olm,73,147,34 -> 72,146,35: Id #1207:Path Goal Seek Station Flood:Station Marauder Mill at 72,146,35
+path fail: cave crocodile,99,39,34 -> 100,39,35: Id #1289:Path Goal Seek Station Flood:Station Marauder Mill at 100,39,35
+path fail: cave crocodile,116,39,34 -> 115,38,35: Id #1289:Path Goal Seek Station Flood:Station Marauder Mill at 115,38,35
+path fail: cave crocodile,190,5,34 -> 191,5,35: Id #1289:Path Goal Seek Station Flood:Station Marauder Mill at 191,5,35
+path fail: giant olm,168,8,34 -> 169,9,35: Id #1320:Path Goal Seek Station Flood:Station None at 166,6,34
+path fail: cave crocodile,42,123,34 -> 43,123,35: Id #1321:Path Goal Seek Station Flood:Station Marauder Mill at 43,123,35
+path fail: cave crocodile,41,131,34 -> 40,132,35: Id #1321:Path Goal Marauder Mill:Station Marauder Mill at 40,132,35
+path fail: giant olm,155,69,34 -> 156,70,35: Id #1320:Path Goal Marauder Mill:Station None at 154,69,34
+path fail: cave crocodile,46,62,34 -> 39,59,35: Id #1321:Path Goal Marauder Mill:Station Marauder Mill at 39,59,35
+path fail: giant olm,101,37,34 -> 97,39,35: Id #1320:Path Goal Seek Station Flood:Station Marauder Mill at 97,39,35
+path fail: cave crocodile,114,7,34 -> 115,6,35: Id #1321:Path Goal Marauder Mill:Station None at 109,11,34
+path fail: cave crocodile,144,27,34 -> 146,22,35: Id #1321:Path Goal Seek Station Flood:Station Marauder Mill at 146,22,35
+path fail: cave crocodile,148,31,34 -> 153,33,35: Id #1321:Path Goal Marauder Mill:Station None at 147,30,34
+path fail: giant cave toad,3,182,34 -> 4,183,37: Id #1419:Path Goal Marauder Mill:Station None at 3,182,34
+path fail: giant cave toad,23,69,34 -> 23,77,35: Id #1419:Path Goal Marauder Mill:Station None at 24,68,34
+path fail: cave crocodile,22,124,34 -> 23,124,35: Id #1449:Path Goal Marauder Mill:Station None at 15,125,34
+path fail: cave crocodile,82,191,34 -> 83,191,35: Id #1449:Path Goal Seek Station Flood:Station Marauder Mill at 83,191,35
+path fail: cave crocodile,3,167,34 -> 2,170,35: Id #1449:Path Goal Seek Station Flood:Station Marauder Mill at 2,170,35
+DOUBLE TAGGED ITEM: Store Item in Stockpile, chert
+DOUBLE TAGGED ITEM: Store Item in Stockpile, chert
+path fail: pond grabber,166,83,34 -> 166,89,35: Id #1486:Path Goal Marauder Mill:Station None at 168,82,34
