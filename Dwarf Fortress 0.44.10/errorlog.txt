@@ -1,0 +1,101 @@
+path fail: ewe,98,94,110 -> 96,97,109: Id #701:Path Goal Seek Station:Station None at 98,94,110
+path fail: sea lamprey,132,61,108 -> 150,57,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 139,59,108
+path fail: sea lamprey,130,62,108 -> 149,56,108: Id #729:Path Goal Flee Terrain:Station None at 128,63,108
+path fail: sea lamprey,132,62,108 -> 113,70,108: Id #729:Path Goal Flee Terrain:Station None at 128,63,108
+path fail: sea lamprey,129,62,108 -> 148,57,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 121,65,108
+path fail: sea lamprey,125,63,108 -> 138,58,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 121,65,108
+path fail: sea lamprey,126,64,108 -> 145,57,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 134,62,108
+path fail: sea lamprey,129,63,108 -> 144,58,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 134,62,108
+path fail: sea lamprey,127,63,108 -> 132,62,108: Id #729:Path Goal Chase Opponent Flood:Station Marauder Mill at 134,62,108
+path fail: sea lamprey,127,63,108 -> 146,56,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 134,62,108
+path fail: sea lamprey,123,65,108 -> 142,57,108: Id #729:Path Goal Flee Terrain:Station None at 122,66,108
+path fail: sturgeon,133,60,108 -> 141,57,108: Id #730:Path Goal Flee from Opponent:Station None at 116,68,108
+path fail: sea lamprey,127,64,108 -> 139,60,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 139,57,108
+path fail: sea lamprey,123,66,108 -> 119,66,108: Id #729:Path Goal Marauder Mill:Station Marauder Mill at 119,66,108
+path fail: sea lamprey,122,66,108 -> 137,59,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 117,69,108
+path fail: sea lamprey,124,64,108 -> 138,57,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 117,69,108
+path fail: sea lamprey,124,64,108 -> 139,59,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 117,69,108
+path fail: sea lamprey,124,65,108 -> 130,61,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 117,69,108
+path fail: sea lamprey,122,66,108 -> 139,58,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 131,63,108
+path fail: sea lamprey,126,63,108 -> 136,59,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 131,63,108
+path fail: sea lamprey,128,63,108 -> 119,67,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 131,63,108
+path fail: sea lamprey,126,64,108 -> 134,59,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 131,63,108
+path fail: sea lamprey,125,64,108 -> 119,68,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 131,63,108
+path fail: sea lamprey,127,63,108 -> 135,60,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 134,61,108
+path fail: sea lamprey,129,62,108 -> 123,64,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 133,62,108
+path fail: sea lamprey,129,63,108 -> 127,65,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 133,62,108
+path fail: sea lamprey,130,62,108 -> 121,68,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 133,62,108
+path fail: sturgeon,129,62,108 -> 123,64,108: Id #730:Path Goal Flee Terrain:Station None at 128,62,108
+path fail: sea lamprey,130,63,108 -> 134,59,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 133,62,108
+path fail: sea lamprey,127,64,108 -> 117,70,108: Id #729:Path Goal Flee Terrain:Station None at 129,62,108
+path fail: sea lamprey,127,64,108 -> 124,63,108: Id #729:Path Goal Flee Terrain:Station None at 129,62,108
+path fail: sea lamprey,127,65,108 -> 132,61,108: Id #729:Path Goal Marauder Mill:Station Marauder Mill at 132,61,108
+path fail: sea lamprey,126,65,108 -> 117,70,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 132,61,108
+path fail: sea lamprey,127,63,108 -> 116,67,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 132,61,108
+path fail: sea lamprey,126,63,108 -> 116,69,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 132,61,108
+path fail: sea lamprey,126,63,108 -> 123,67,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 132,61,108
+path fail: sea lamprey,125,63,108 -> 113,70,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 119,69,108
+path fail: sea lamprey,120,67,108 -> 117,69,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 126,63,108
+path fail: sea lamprey,121,67,108 -> 126,64,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 124,64,108
+path fail: sea lamprey,121,66,108 -> 122,64,108: Id #729:Path Goal Flee Terrain:Station Marauder Mill at 124,64,108
+path fail: sea lamprey,122,66,108 -> 120,68,108: Id #729:Path Goal Flee Terrain:Station None at 123,65,108
+path fail: sea lamprey,121,65,108 -> 118,69,108: Id #729:Path Goal Flee Terrain:Station None at 123,65,108
+path fail: sturgeon,119,67,108 -> 117,67,108: Id #730:Path Goal Flee from Opponent:Station None at 125,64,108
+path fail: sea lamprey,122,66,108 -> 121,68,108: Id #729:Path Goal Flee Terrain:Station None at 123,65,108
+path fail: sturgeon,115,68,108 -> 113,69,108: Id #730:Path Goal Flee from Opponent:Station None at 120,68,108
+path fail: sea lamprey,121,68,108 -> 121,67,108: Id #729:Path Goal Flee Terrain:Station None at 121,68,108
+path fail: sturgeon,112,69,108 -> 113,68,108: Id #730:Path Goal Flee from Opponent:Station None at 120,68,108
+path fail: sturgeon,117,68,108 -> 118,69,108: Id #730:Path Goal Flee from Opponent:Station None at 120,68,108
+path fail: sturgeon,115,69,108 -> 113,69,108: Id #730:Path Goal Flee from Opponent:Station None at 120,68,108
+path fail: sturgeon,117,69,108 -> 118,69,108: Id #730:Path Goal Flee from Opponent:Station None at 117,69,108
+path fail: sturgeon,118,66,108 -> 116,67,108: Id #730:Path Goal Flee from Opponent:Station None at 117,69,108
+path fail: dog,96,97,110 -> 96,93,109: Id #694:Path Goal Seek Station:Station None at 96,97,110
+path fail: turkey hen,95,96,109 -> 100,100,110: Id #714:Path Goal Flee Terrain:Station None at 95,96,109
+path fail: dwarf,Drink,96,96,110 -> 96,95,109: Id #691:Path Goal Seek Drink Item:Station Wagon at 94,93,109
+path fail: dog,95,97,109 -> 100,100,110: Id #694:Path Goal Flee Terrain:Station None at 95,97,109
+path fail: two-humped camel,95,97,109 -> 99,100,110: Id #719:Path Goal Seek Station Flood:Station Milling Flood at 99,100,110
+path fail: dog,98,93,109 -> 99,93,110: Id #695:Path Goal Seek Station Flood:Station Milling Flood at 99,93,110
+path fail: yak bull,98,93,109 -> 100,94,110: Id #718:Path Goal Seek Station Flood:Station Milling Flood at 100,94,110
+path fail: dog,96,96,110 -> 95,93,109: Id #697:Path Goal Seek Station:Station None at 96,96,110
+path fail: dog,98,93,109 -> 98,93,110: Id #697:Path Goal Seek Station Flood:Station Milling Flood at 98,93,110
+path fail: rooster,98,94,110 -> 96,94,109: Id #709:Path Goal Seek Station:Station None at 98,94,110
+path fail: hen,97,96,110 -> 95,93,109: Id #708:Path Goal Seek Station:Station None at 97,96,110
+path fail: turkey gobbler,96,96,110 -> 97,94,109: Id #717:Path Goal Seek Station:Station None at 96,96,110
+path fail: turkey hen,97,96,110 -> 99,96,109: Id #715:Path Goal Seek Station:Station None at 97,96,110
+path fail: hen,99,93,109 -> 99,93,110: Id #708:Path Goal Seek Station Flood:Station Milling Flood at 99,93,110
+path fail: hen,99,93,109 -> 100,94,110: Id #706:Path Goal Seek Station Flood:Station None at 99,93,109
+path fail: turkey hen,99,93,109 -> 99,93,110: Id #715:Path Goal Seek Station Flood:Station Milling Flood at 99,93,110
+path fail: turkey gobbler,98,93,109 -> 99,94,110: Id #717:Path Goal Seek Station Flood:Station Milling Flood at 99,94,110
+path fail: hen,97,97,110 -> 96,95,109: Id #704:Path Goal Seek Station:Station None at 97,97,110
+path fail: ram,96,96,110 -> 97,94,109: Id #702:Path Goal Seek Station:Station None at 96,96,110
+path fail: hen,95,97,109 -> 98,100,110: Id #705:Path Goal Seek Station Flood:Station Milling Flood at 98,100,110
+path fail: hen,98,94,110 -> 93,94,109: Id #707:Path Goal Seek Station:Station None at 98,94,110
+path fail: hen,99,93,109 -> 100,94,110: Id #704:Path Goal Seek Station Flood:Station Milling Flood at 100,94,110
+path fail: ram,99,93,109 -> 100,94,110: Id #702:Path Goal Seek Station Flood:Station Milling Flood at 100,94,110
+path fail: two-humped camel,94,92,110 -> 97,94,109: Id #719:Path Goal Seek Station:Station None at 94,92,110
+path fail: dog,98,93,109 -> 99,94,110: Id #694:Path Goal Seek Station Flood:Station Milling Flood at 99,94,110
+path fail: hen,97,97,109 -> 100,100,110: Id #703:Path Goal Seek Station Flood:Station Milling Flood at 100,100,110
+path fail: dog,99,93,109 -> 100,94,110: Id #693:Path Goal Seek Station Flood:Station Milling Flood at 100,94,110
+loop path fail: <same square> rooster,44,17,94 -> 39,22,94: Id #709:Path Goal Seek Station:Station Mill Building at 49,20,94
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+loop path fail: <same square> dog,40,18,94 -> 48,23,94: Id #944:Path Goal Seek Station:Station Owner at 42,24,94
+loop path fail: <same square> donkey,42,20,94 -> 40,21,94: Id #958:Path Goal Seek Station:Station Mill Building at 39,18,94
+loop path fail: <same square> dog,48,20,94 -> 49,23,94: Id #932:Path Goal Seek Station:Station Owner at 47,24,94
+loop path fail: <same square> dwarf,41,19,94 -> 44,24,94: Id #1080:Path Goal Seek Station:Station Mill Building at 49,18,94
+path fail: cat,57,19,94 -> 30,55,109: Id #930:Path Goal Seek Station:Station None at 57,19,94
+loop path fail: <same square> hen,38,21,94 -> 47,18,94: Id #703:Path Goal Seek Station:Station Mill Building at 48,24,94
+path fail: human,Cause Trouble,191,111,109 -> 94,91,110: Id #106:Path Goal Thief Target:Station None at 191,111,109
+loop path fail: <same square> hen,41,18,94 -> 50,21,94: Id #705:Path Goal Seek Station:Station Mill Building at 41,20,94
+loop path fail: <same square> dwarf,48,17,94 -> 48,23,94: Id #52:Path Goal Seek Station:Station Mill Building at 49,24,94
+loop path fail: <same square> dog,44,20,94 -> 45,22,94: Id #1043:Path Goal Seek Station:Station Mill Building at 41,20,94
+loop path fail: <same square> dog,44,16,94 -> 40,25,94: Id #1043:Path Goal Seek Station:Station Mill Building at 44,23,94
+loop path fail: <same square> dwarf,45,20,94 -> 48,20,94: Id #1067:Path Goal Seek Station:Station Mill Building at 47,21,94
+loop path fail: <same square> dog,39,26,94 -> 13,29,94: Id #1137:Path Goal Seek Station:Station Owner at 12,28,94
+loop path fail: <same square> turkey hen,47,20,94 -> 49,22,94: Id #713:Path Goal Seek Station:Station Mill Building at 42,24,94
+loop path fail: <same square> dwarf,44,20,94 -> 43,18,94: Id #957:Path Goal Seek Station:Station Mill Building at 42,18,94

@@ -6,3 +6,2833 @@ Generating world using parameter set CREATE WORLD NOW = 1334534
  History Seed: iyAAA2uuuu6qy2Aummu2
  Name Seed: mqiiu6y6m6mmiiuy22mA
  Creature Seed: 2AqAAi22uqmqy6qyyiqA
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+The flying ({copper bolt}) strikes the wild boar in the upper body, tearing the muscle and bruising the middle spine's bone!
+A tendon in the middle spine has been torn!
+The flying ({copper bolt}) strikes the wild boar sow in the right front leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the wild boar sow in the right rear leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The wild boar sow falls over.
+The flying ({copper bolt}) strikes the wild boar sow in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the wild boar sow in the right rear leg, fracturing the bone!
+A tendon has been torn!
+The flying ({copper bolt}) strikes the wild boar sow in the right rear hoof, fracturing it!
+The force twists the right rear leg!
+The flying ({copper bolt}) strikes the wild boar sow in the tail, chipping the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The sea lamprey slaps the sturgeon in the left fin with his tail, lightly tapping the target!
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey slaps the sturgeon in the tail with his tail, bruising the fat!
+The flying ({copper bolt}) strikes the wild boar sow in the lower body, tearing the muscle and tearing the pancreas!
+The ({copper bolt}) has lodged firmly in the wound!
+The sea lamprey stands up.
+The sea lamprey misses the sturgeon!
+The sea lamprey stands up.
+The flying ({copper bolt}) strikes the wild boar sow in the right front leg, chipping the bone!
+A tendon has been torn!
+Aban Sedurkeskal, Hunter: I have improved my archery.  That was satisfying.
+The flying ({copper bolt}) strikes the wild boar sow in the head, tearing the muscle, fracturing the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin!
+The flying ({copper bolt}) strikes the wild boar sow in the upper body, tearing the muscle and tearing the middle spine's nervous tissue!
+A tendon in the middle spine has been torn!
+The flying ({copper bolt}) strikes the wild boar sow in the right rear leg, chipping the bone!
+A tendon has been torn!
+Aban Sedurkeskal, Hunter cancels Hunt: No ammunition.
+The flying ({copper bolt}) strikes the wild boar sow in the lower body, tearing the muscle and tearing the guts!
+The wild boar sow looks sick!
+The ({copper bolt}) has lodged firmly in the wound!
+Aban Sedurkeskal, Hunter: I must withdraw!
+Aban Sedurkeskal, Hunter: I was out in the rain.  It's annoying.
+Aban Sedurkeskal, Hunter: I must withdraw!
+The sea lamprey slaps the sturgeon in the tail with his tail, lightly tapping the target!
+The sea lamprey slaps the sturgeon in the left fin with his tail, bruising the muscle!
+The sea lamprey slaps the sturgeon in the left fin with his tail, bruising the fat!
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey misses the sturgeon!
+The sea lamprey stands up.
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey misses the sturgeon!
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey slaps the sturgeon in the tail with his tail, bruising the fat!
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey attacks the sturgeon but She jumps away!
+The sea lamprey misses the sturgeon!
+The sturgeon stands up.
+The sea lamprey attacks the sturgeon but She scrambles away!
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey attacks the sturgeon but She jumps away!
+The sturgeon slaps the sea lamprey in the upper body with her tail, bruising the muscle!
+The sea lamprey attacks the sturgeon but She jumps away!
+The sturgeon attacks the sea lamprey but He jumps away!
+The sturgeon misses the sea lamprey!
+The sturgeon slaps the sea lamprey in the tail with her tail, bruising the fat!
+The sea lamprey stands up.
+The sturgeon attacks the sea lamprey but He jumps away!
+The sturgeon misses the sea lamprey!
+The sturgeon slaps the sea lamprey in the tail with her tail, bruising the fat!
+The sturgeon charges at the sea lamprey!
+The sea lamprey jumps away!
+The sturgeon attacks the sea lamprey but He jumps away!
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sea lamprey slaps the sturgeon in the lower body with his tail, lightly tapping the target!
+The sturgeon stands up.
+The sea lamprey stands up.
+The sea lamprey slaps the sturgeon in the upper body with his tail, bruising the muscle!
+The sturgeon stands up.
+The sea lamprey stands up.
+The sea lamprey attacks the sturgeon but She jumps away!
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+You have struck red spinel!
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+You have struck black zircon!
+The sturgeon stands up.
+The sea lamprey stands up.
+You have struck goshenite!
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The sturgeon stands up.
+The sea lamprey stands up.
+The stray duck's left upper leg skids along the ground, bruising the muscle!
+The stray yak bull jumps out of the stray duck's flight path!
+The stray duck's head skids along the ground, bruising the muscle!
+The stray duck's left lower leg skids along the ground, bruising the muscle!
+The stray duck's upper body skids along the ground, bruising the muscle and bruising the left false ribs!
+The stray duck's right lower leg skids along the ground, bruising the muscle!
+The stray duck slams into an obstacle!
+The stray duck stands up.
+The stray duck is no longer stunned.
+Aban Sedurkeskal, Hunter cancels Drink: Could not find path.
+The planter's mouth skids along the ground, bruising the left cheek's skin through the (giant cave spider silk cloak)!
+The stray drake jumps out of the planter's flight path!
+The stray dog slams into the planter!
+The planter slams into an obstacle!
+The planter is no longer stunned.
+The planter stands up.
+The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kib Étastoddom, Mason cancels Give Water: Need empty bucket.
+The red panda boar's upper body takes the full force of the impact, bruising the muscle and bruising the right lung!
+The red panda boar's left rear leg takes the full force of the impact, bruising the muscle!
+The red panda boar's right front leg takes the full force of the impact, bruising the muscle!
+You have struck cassiterite!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+It has started raining.
+You have struck brown zircon!
+You have struck native silver!
+You have struck galena!
+You have struck turquoise!
+The weather has cleared.
+You have struck green tourmaline!
+You have struck black zircon!
+You have struck galena!
+It is now summer.
+It has started raining.
+The weather has cleared.
+Olon Rigïthatham, Planter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+It has started raining.
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+You have struck cassiterite!
+It has started raining.
+The Stray Ram (Tame) has been found, starved to death.
+Construct Bed (10) has been completed.
+Construct rock Table (5) has been completed.
+Construct rock Throne (5) has been completed.
+The Stray Ewe (Tame) has been found, starved to death.
+The Stray Yak Bull (Tame) has been slaughtered.
+The Stray Cat (Tame) has been slaughtered.
+Autumn has come.
+Olon Rigïthatham, Planter cancels Fertilize Field: Needs potash.
+x2
+x3
+The weather has cleared.
+Construct wooden Bin (10) has been completed.
+Aban Sedurkeskal has become a Carpenter.
+Make wooden Barrel (10) has been completed.
+Construct rock Cabinet (10) has been completed.
+The outpost liaison Deler Kñbukekur from Stuk¢nmîrul has arrived.
+A caravan from Stuk¢nmîrul has arrived.
+Construct rock Door (10) has been completed.
+It has started raining.
+Merchants have arrived and are unloading their goods.
+Stray Cat (Tame) has given birth to kittens.
+Stray Dog (Tame) has given birth to a puppy.
+x2
+Stray Dog (Tame) has given birth to puppies.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+You have struck goshenite!
+You have struck brown zircon!
+Stray Dog (Tame) has given birth to puppies.
+Stray Dog (Tame) has given birth to a puppy.
+The Stray Two-humped Camel (Tame) has been missing for a week.
+Construct rock Door (10) has been completed.
+Fikod Logemãdath, Pump Operator cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Some migrants have arrived.
+You have struck goshenite!
+The merchants from Stuk¢nmîrul will be leaving soon.
+The Stray Two-humped Camel (Tame) has been found, starved to death.
+Fikod Logemãdath, Pump Operator cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The merchants from Stuk¢nmîrul have embarked on their journey.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+x2
+Brew drink from plant (10) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir, Butcher cancels Cut brown zircon: Needs rough brown zircons.
+Cut black zircon (5) has been completed.
+Ustuth Domasustir, Butcher cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir has become a Mason.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Construct Bed (10) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+x2
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir, Mason cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Aban Sedurkeskal, Carpenter cancels Store Item in Bin: Job item misplaced.
+It has started raining.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir, Mason cancels Cut black zircon: Needs rough black zircons.
+Construct rock Cabinet (10) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Cut black zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+x2
+Construct rock Door (15) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Winter is upon you.
+Olon Rigïthatham, Planter cancels Fertilize Field: Needs potash.
+x2
+Cut brown zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Olon Rigïthatham, Planter cancels Fertilize Field: Needs potash.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+You have struck clear zircon!
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+x2
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Dìbar SarÖmingish has grown to become a Guineahen.
+A snow storm has come.
+Ustuth Domasustir, Mason cancels Cut black zircon: Needs rough black zircons.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Cut black zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+A snow storm has come.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Construct rock Mechanisms (6) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Fikod Logemãdath, Pump Operator cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Cut brown zircon (5) has been completed.
+Brew drink from plant (10) has been completed.
+You have struck native silver!
+You have struck rose quartz!
+You have struck cassiterite!
+You have struck native silver!
+You have struck clear zircon!
+You have struck orthoclase!
+You have struck native silver!
+You have struck amethyst!
+You have discovered an expansive cavern deep underground.
+Digging designation cancelled: damp stone located.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+A snow storm has come.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+Mîrul ErushunÉl, expedition leader cancels Store Item in Stockpile: Drop-off inaccessible.
+Cerol GeshudkÑl†n, Peasant cancels Store Item in Stockpile: Drop-off inaccessible.
+Sarvesh KÜtÉkmîrul, Furnace Operator cancels Store Item in Stockpile: Drop-off inaccessible.
+Aban Sedurkeskal, Carpenter cancels Store Item in Stockpile: Drop-off inaccessible.
+Ilral Matulmeng, Woodcutter cancels Store Item in Stockpile: Drop-off inaccessible.
+Kib Étastoddom, Mason cancels Store Item in Stockpile: Drop-off inaccessible.
+Fikod Logemãdath, Pump Operator cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tobulletmos, Miner cancels Store Item in Stockpile: Item inaccessible.
+Ustuth Domasustir, Mason cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Edâm VabìkinsÇl, Glazer cancels Give Water: No water source.
+x2
+x3
+Ustuth Domasustir, Mason cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Olon Rigïthatham, Planter cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Ustuth Domasustir, Mason cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+It has started raining.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Fikod Logemãdath has become a Woodworker.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+x2
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+The weather has cleared.
+Cut goshenite (5) has been completed.
+Cerol GeshudkÑl†n, Peasant cancels Give Water: No water source.
+Cut green tourmaline (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Spring has arrived!
+Make wooden Wheelbarrow (10) has been completed.
+The Stray Donkey Foal (Tame) has been found, starved to death.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Ustuth Domasustir, Mason cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+It has started raining.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+x2
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck brown zircon!
+You have struck native silver!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+x2
+Prepare Lavish Meal (10) has been completed.
+Stray Dog (Tame) has given birth to puppies.
+You have struck brown zircon!
+You have struck cassiterite!
+x2
+You have struck goshenite!
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+A elven caravan from çbear° has arrived.
+You have struck native silver!
+You have struck cassiterite!
+You have struck native silver!
+Merchants have arrived and are unloading their goods.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Stray Dog (Tame) has given birth to puppies.
+You have struck schorl!
+You have struck cobaltite!
+Stray Dog (Tame) has given birth to puppies.
+Cut goshenite (5) has been completed.
+You have struck cobaltite!
+Stray Dog (Tame) has given birth to a puppy.
+You have struck brown zircon!
+You have struck olivine!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck tetrahedrite!
+Some migrants have arrived.
+You have struck green zircon!
+You have struck tetrahedrite!
+It has started raining.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Stray Dog (Tame) has given birth to puppies.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The Stray Dog (Tame) has been slaughtered.
+You have struck olivine!
+The Stray Dog (Tame) has been slaughtered.
+You have struck tetrahedrite!
+The Stray Dog (Tame) has been slaughtered.
+Cut brown zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck tetrahedrite!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck green zircon!
+You have struck olivine!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The Stray Dog (Tame) has been slaughtered.
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+The merchants from çbear° will be leaving soon.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck hornblende!
+You have struck tetrahedrite!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck rutile!
+You have struck morion!
+You have struck sphalerite!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The merchants from çbear° have embarked on their journey.
+The Stray Dog (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck galena!
+The Stray Dog (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck red spinel!
+The Stray Puppy (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck galena!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The Stray Puppy (Tame) has been slaughtered.
+You have struck cobaltite!
+The Stray Puppy (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The Stray Puppy (Tame) has been slaughtered.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+Minkot AlÜthvucar, Beekeeper cancels Drink: Water source vanished.
+Ast Godenasiz, Miller cancels Drink: Water source vanished.
+The Stray Puppy (Tame) has been slaughtered.
+Oddom Lolokbârñl, Herbalist cancels Drink: Water source vanished.
+x2
+Rakust Mengtilesh, Woodcutter cancels Drink: Water source vanished.
+Tun Besmarobok, Gelder cancels Drink: Water source vanished.
+The Stray Puppy (Tame) has been slaughtered.
+Asob Othillokum, Metalcrafter cancels Drink: Water source vanished.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+The polar bear attacks the miner but He jumps away!
+The polar bear scratches the peasant in the left upper arm, lightly tapping the target!
+The miner attacks the polar bear but She jumps away!
+Cerol GeshudkÑl†n, Peasant cancels Store Item in Stockpile: Experiencing emotional shock.
+Tekkud Tobulletmos, Miner: Has the tide turned?  I must press on!
+Cerol GeshudkÑl†n, Peasant: Stop!  This isn't happening!
+The miner scratches the polar bear in the left rear leg, tearing the fat and bruising the muscle!
+Tekkud Tobulletmos, Miner: This is my fight too.  This might require an answer.
+The polar bear attacks the miner but He jumps away!
+The miner punches the polar bear in the right rear paw with his right hand, bruising the fat!
+Cerol GeshudkÑl†n, Peasant: I was attacked.  Ah...  uh...
+The polar bear attacks the miner but He jumps away!
+The polar bear charges at the miner!
+The polar bear collides with the miner!
+The miner is knocked over and tumbles backward!
+The miner stands up.
+The polar bear attacks the miner but He jumps away!
+The miner misses the polar bear!
+The polar bear scratches the miner in the left lower arm, bruising the muscle through the x(pig leather cloak)x!
+The miner is no longer stunned.
+The polar bear charges at the miner!
+The polar bear collides with the miner!
+The miner is knocked over and tumbles backward!
+The miner stands up.
+The polar bear misses the miner!
+The miner misses the polar bear!
+The miner attacks the polar bear but She jumps away!
+The miner misses the polar bear!
+The miner is no longer stunned.
+The miner attacks the polar bear but She jumps away!
+The miner punches the polar bear in the left rear paw with his right hand, bruising the muscle!
+The miner attacks the polar bear but She jumps away!
+The miner misses the polar bear!
+The miner kicks the polar bear in the lower body with his left foot, bruising the muscle and bruising the spleen!
+The miner punches the polar bear in the tail with his right hand, bruising the fat!
+The polar bear scratches the miner in the left foot, bruising the muscle through the x(pig tail shoe)x!
+The miner punches the polar bear in the right rear leg with his right hand, bruising the muscle!
+The miner attacks the polar bear but She jumps away!
+The polar bear misses the miner!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the right foot, bruising the fat through the x(pig tail shoe)x!
+The miner punches the polar bear in the left rear leg with his left hand, bruising the fat!
+The polar bear misses the miner!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the right foot, bruising the fat through the X(pig tail shoe)X!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the right lower arm, bruising the skin through the x(pig leather cloak)x!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the right upper leg, bruising the fat through the X(pig leather cloak)X!
+The miner punches the polar bear in the lower body with his left hand, bruising the muscle and bruising the guts!
+The polar bear misses the miner!
+The miner attacks the polar bear but She jumps away!
+The miner punches the polar bear in the right front leg with his right hand, bruising the muscle!
+The polar bear scratches the miner in the right lower leg, bruising the muscle through the x(giant cave spider silk trousers)x!
+The polar bear charges at the miner!
+The miner jumps away!
+The miner scratches the polar bear in the right front paw, tearing the fat and bruising the muscle!
+The force twists the right front leg!
+The polar bear scratches the miner in the right upper leg, bruising the muscle through the X(pig leather cloak)X!
+The force bends the right hip!
+The miner misses the polar bear!
+The miner punches the polar bear in the head with his left hand, bruising the fat!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear misses the miner!
+The miner punches the polar bear in the right rear paw with his left hand, bruising the fat!
+The polar bear attacks the miner but He jumps away!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the left hand, bruising the fat through the x(pig tail left mitten)x!
+The polar bear scratches the miner in the right foot, bruising the fat through the X(pig tail shoe)X!
+The miner punches the polar bear in the left front leg with his left hand, bruising the fat!
+The polar bear scratches the miner in the lower body, bruising the fat through the XX(pig leather cloak)XX!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The polar bear scratches the miner in the left lower leg, bruising the muscle through the X(giant cave spider silk trousers)X!
+The miner attacks the polar bear but She jumps away!
+The miner punches the polar bear in the left rear paw with his left hand, but the attack glances away!
+Tekkud Tobulletmos, Miner: I have improved my striking.  I am very satisfied.
+The miner punches the polar bear in the right rear leg with his right hand, bruising the muscle!
+The miner attacks the polar bear but She jumps away!
+The miner punches the polar bear in the right front paw with his left hand, bruising the muscle!
+The force twists the right front leg!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The miner punches the polar bear in the right rear paw with his left hand, but the attack glances away!
+The polar bear attacks the miner but He jumps away!
+The miner punches the polar bear in the left rear leg with his right hand, bruising the fat!
+The polar bear scratches the miner in the left foot, bruising the fat through the X(pig tail shoe)X!
+The polar bear charges at the miner!
+The miner jumps away!
+The polar bear scratches the miner in the left hand, bruising the muscle through the X(pig tail left mitten)X!
+The miner punches the polar bear in the upper body with his right hand, bruising the muscle and bruising the liver!
+The polar bear misses the miner!
+The miner attacks the polar bear but She jumps away!
+The polar bear scratches the miner in the lower body, bruising the fat through the XX(pig leather cloak)XX!
+The polar bear attacks the miner but He jumps away!
+The miner punches the polar bear in the left front paw with his left hand, bruising the fat!
+The polar bear misses the miner!
+The miner attacks the polar bear but She jumps away!
+The polar bear attacks the miner but He jumps away!
+The polar bear misses the miner!
+The miner punches the polar bear in the left front paw with his left hand, bruising the muscle!
+The miner punches the polar bear in the right front leg with his left hand, bruising the fat!
+The polar bear charges at the miner!
+The polar bear collides with the miner!
+The miner is knocked over and tumbles backward!
+The miner stands up.
+The miner attacks the polar bear but She jumps away!
+The miner kicks the polar bear in the left rear paw with his left foot, bruising the muscle!
+The force pulls the left rear leg!
+The miner punches the polar bear in the upper body with his left hand, bruising the fat!
+The miner punches the polar bear in the upper body with his left hand, bruising the muscle and bruising the left lung!
+The Stray Puppy (Tame) has been slaughtered.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Drink: Water source vanished.
+Asob Othillokum, Metalcrafter cancels Give Water: Need empty bucket.
+The Stray Puppy (Tame) has been slaughtered.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Rakust Mengtilesh, Woodcutter cancels Drink: Water source vanished.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+The Stray Puppy (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The Stray Puppy (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The weather has cleared.
+The Stray Puppy (Tame) has been slaughtered.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+The Stray Puppy (Tame) has been slaughtered.
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The Stray Puppy (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+It has started raining.
+You have struck native silver!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck rose quartz!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck black zircon!
+You have struck brown zircon!
+Fikod Logemãdath, Woodworker cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+There is nothing to catch in the northern swamps.
+Brew drink from plant (10) has been completed.
+You have struck black zircon!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+x2
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Prepare Lavish Meal (10) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck clear zircon!
+You have struck black zircon!
+Cut brown zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck rose quartz!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Mîrul ErushunÉl, expedition leader cancels Store Item in Bin: Taken by mood.
+Mîrul ErushunÉl, expedition leader withdraws from society...
+Mîrul ErushunÉl has claimed a Mason's Workshop.
+You have struck hornblende!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+There is nothing to catch in the eastern swamps.
+You have struck prase!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck purple spinel!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+It is now summer.
+Kib Alaksazir, Tanner cancels Fertilize Field: Needs potash.
+x2
+x3
+Cut brown zircon (5) has been completed.
+The weather has cleared.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck purple spinel!
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+You have struck green zircon!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck prase!
+You have struck olivine!
+The Stray Horse (Tame) has been slaughtered.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+It has started raining.
+The Stray Alpaca (Tame) has been slaughtered.
+You have struck schorl!
+Mîrul ErushunÉl has begun a mysterious construction!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck milk quartz!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck red spinel!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck milk quartz!
+Aban Sedurkeskal, Carpenter cancels Store Item in Stockpile: Item inaccessible.
+Cut brown zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Mîrul ErushunÉl, expedition leader has created MotÉm Ticekemuth, a native silver quern!  He claims it as a family heirloom.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Kib Alaksazir, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Mestthos Daturasob has created a masterpiece copper pick!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+You have struck amethyst!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Kib Alaksazir, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+x2
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Kib Alaksazir, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+The weather has cleared.
+Fikod Logemãdath has become a Carpenter.
+Kib Alaksazir, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+x2
+Construct rock Blocks (5) has been completed.
+Mestthos Daturasob, Weaponsmith cancels Forge copper pick: Needs 1 copper bars.
+x2
+Construct wooden Bin (20) has been completed.
+Dìbar Dod¢kilrom has become a Miner.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Brew drink from plant (10) has been completed.
+Construct Bed (20) has been completed.
+You have struck green zircon!
+You have struck hornblende!
+Construct rock Door (20) has been completed.
+Construct rock Cabinet (20) has been completed.
+Cerol GeshudkÑl†n has become a Miner.
+It has started raining.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+You have struck prase!
+Sarvesh KÜtÉkmîrul, Furnace Operator cancels Smelt tetrahedrite Ore: Needs refined coal.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Some migrants have arrived.
+Likot ¢dcerol has become a Miner.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir, Mason cancels Cut goshenite: Needs rough goshenites.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Mistàm Besmarrigïth has become a Miner.
+The weather has cleared.
+It has started raining.
+The Stray Yak Calf (Tame) has been found, starved to death.
+You have struck cobaltite!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+The Stray Baby Llama (Tame) has been found, starved to death.
+You have struck tetrahedrite!
+You have struck sphalerite!
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+Cut goshenite (5) has been completed.
+Ustuth Domasustir, Mason cancels Cut black zircon: Needs rough black zircons.
+Ustuth Domasustir, Mason cancels Cut brown zircon: Needs rough brown zircons.
+Ustuth Domasustir, Mason cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck native silver!
+You have struck rubicelle!
+Autumn has come.
+The weather has cleared.
+The dead walk.  Hide while you still can!
+You have struck goshenite!
+You have struck green tourmaline!
+Brew drink from plant (10) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Olon Rigïthatham, Planter cancels Fertilize Field: Needs potash.
+x2
+x3
+You have struck brown zircon!
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+You have struck goshenite!
+You have struck green tourmaline!
+You have struck morion!
+It has started raining.
+An animal has grown to become a Stray Cat.
+x2
+An animal has grown to become a Stray Dog.
+Cut black zircon (5) has been completed.
+An animal has grown to become a Stray Dog.
+Edâm VabìkinsÇl, Glazer cancels Cut black zircon: Needs rough black zircons.
+Edâm VabìkinsÇl, Glazer cancels Cut brown zircon: Needs rough brown zircons.
+Cut green tourmaline (5) has been completed.
+An animal has grown to become a Stray Dog.
+x2
+You have struck red spinel!
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Domasustir has become a Stoneworker.
+Cut goshenite (5) has been completed.
+You have struck smoky quartz!
+The weather has cleared.
+Cut brown zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+You have struck galena!
+You have struck cassiterite!
+You have struck black zircon!
+You have struck turquoise!
+It has started raining.
+The weather has cleared.
+Cut green zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut green tourmaline: Needs rough green tourmalines.
+Oddom Lolokbârñl, Herbalist cancels Drink: Taken by mood.
+Oddom Lolokbârñl, Herbalist is taken by a fey mood!
+Oddom Lolokbârñl has claimed a Craftsdwarf's Workshop.
+Oddom Lolokbârñl has begun a mysterious construction!
+You have struck milk quartz!
+You have struck turquoise!
+Brew drink from plant (10) has been completed.
+It has started raining.
+You have struck amethyst!
+Oddom Lolokbârñl, Herbalist has created Gingnokzam, a hazel wood amulet!  She claims it as a family heirloom.
+Oddom Lolokbârñl has become a Woodcrafter.
+Cut black zircon (5) has been completed.
+Cerol GeshudkÑl†n, Miner cancels Dig: Experiencing emotional shock.
+Kib Étastoddom has created a masterpiece schist table!
+The weather has cleared.
+You have struck pink garnet!
+It has started raining.
+Cerol GeshudkÑl†n, Miner cancels Dig: Experiencing emotional shock.
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf lasher corpse attacks the weregila monster but It jumps away!
+The weregila monster bites the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The weregila monster latches on firmly!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the right ear with its left foot and the severed part sails off in an arc!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the right hand, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The force twists the right wrist!
+The dwarf lasher corpse lashes the weregila monster in the left upper leg with his ({silver whip}), bruising the scale!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+The dwarf lasher corpse is knocked over and tumbles backward!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the head with its right foot, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+A tendon in the upper spine has been bruised!
+The dwarf lasher corpse stands up.
+The goblin pikeman corpse charges at the dwarf lasher corpse!
+The goblin pikeman corpse collides with the dwarf lasher corpse!
+They tangle together and fall over!
+The dwarf lasher corpse stands up.
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster punches the dwarf lasher corpse in the upper left back teeth with its right hand and the severed part sails off in an arc!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The flying ({copper arrow}) misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the left lower leg with its left foot, but the attack glances away!
+The force bends the left knee!
+A ligament has been bruised and a tendon has been bruised!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster bites the goblin pikeman corpse in the right hand, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The goblin pikeman corpse misses the weregila monster!
+The goblin spearman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf speardwarf corpse attacks the weregila monster but It jumps away!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster bites the goblin pikeman corpse in the left lower leg, but the attack glances away!
+The weregila monster latches on firmly!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the right upper arm, but the attack glances away!
+The force bends the right shoulder!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf lasher corpse charges at the dwarf lasher corpse!
+The dwarf lasher corpse collides with the dwarf lasher corpse!
+The dwarf lasher corpse is knocked over!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf lasher corpse stands up.
+The weregila monster scratches the goblin pikeman corpse in the left lower arm, but the attack is deflected by the goblin pikeman corpse's ({copper left gauntlet})!
+The force bends the left elbow!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin spearman corpse charges at the dwarf lasher corpse!
+The goblin spearman corpse collides with the dwarf lasher corpse!
+The goblin spearman corpse bounces backward!
+The goblin pikeman corpse stabs the weregila monster in the right hand with his ({copper pike}), tearing the muscle and bruising the bone!
+A sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force pulls the right lower arm!
+The weregila monster scratches the goblin pikeman corpse in the upper body, bruising the muscle through the XX({sheep wool cloak})XX!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf speardwarf corpse charges at the dwarf lasher corpse!
+The dwarf speardwarf corpse collides with the dwarf lasher corpse!
+The dwarf lasher corpse is knocked over!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse charges at the weregila monster!
+The dwarf pikedwarf corpse collides with the weregila monster!
+The dwarf pikedwarf corpse is knocked over!
+The dwarf lasher corpse stands up.
+The goblin pikeman corpse stabs the weregila monster in the left lower leg with his ({copper pike}), tearing the scale!
+The ({copper pike}) has lodged firmly in the wound!
+The flying ({copper arrow}) strikes the weregila monster in the upper body, tearing the muscle and tearing the left lung!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The dwarf pikedwarf corpse stabs the weregila monster in the lower body with her ({copper pike}), tearing the muscle and bruising the guts!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse pulls on the embedded ({copper pike}).
+The goblin pikeman corpse gains possession of the ({copper pike}).
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force bends the neck!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+The dwarf lasher corpse bounces backward!
+The dwarf lasher corpse lashes the weregila monster in the right upper leg with his ({silver whip}), bruising the fat!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The XX({chicken leather hood})XX breaks!
+The force bends the neck!
+The flying ({copper arrow}) misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the second toe, left foot, but the attack is deflected by the goblin pikeman corpse's ({bronze low boot})!
+The XX({sheep wool cloak})XX is ripped to shreds!
+The XX({dog leather coat})XX breaks!
+The force bends the left foot!
+A ligament in the left knee has been bruised and a tendon has been bruised!
+The dwarf lasher corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse scratches the weregila monster in the second toe, right foot, tearing apart the fat!
+The dwarf speardwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper front teeth and the severed part sails off in an arc!
+The dwarf axedwarf corpse charges at the weregila monster!
+The dwarf axedwarf corpse collides with the weregila monster!
+The dwarf axedwarf corpse is knocked over!
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, but the attack glances away!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The elf pikeman corpse charges at the weregila monster!
+The elf pikeman corpse collides with the weregila monster!
+The elf pikeman corpse is knocked over!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+The dwarf lasher corpse bounces backward!
+The dwarf pikedwarf corpse scratches the weregila monster in the head, denting the scale and bruising the fat!
+The dwarf speardwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse scratches the weregila monster in the right upper arm, tearing the muscle!
+The elf pikeman corpse stabs the weregila monster in the right upper arm with his ({iron pike}), tearing the muscle!
+Many nerves have been severed!
+The ({iron pike}) has lodged firmly in the wound!
+The dwarf axedwarf corpse slashes the weregila monster in the head with her ({bronze halberd}), tearing the muscle!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse charges at the weregila monster!
+The dwarf pikedwarf corpse collides with the weregila monster!
+The dwarf pikedwarf corpse is knocked over!
+The dwarf pikedwarf corpse bites the weregila monster in the left foot, tearing the scale and bruising the muscle!
+The dwarf pikedwarf corpse charges at the weregila monster!
+The dwarf pikedwarf corpse collides with the weregila monster!
+The dwarf pikedwarf corpse is knocked over and tumbles backward!
+The weregila monster scratches the goblin pikeman corpse in the right upper arm, bruising the bone through the ({bronze mail shirt})!
+The force pulls the right shoulder!
+The elf pikeman corpse pulls on the embedded ({iron pike}).
+The elf pikeman corpse gains possession of the ({iron pike}).
+The dwarf pikedwarf corpse stands up.
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse stabs the weregila monster in the left foot with his ({copper pike}), tearing the fat!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse lashes the weregila monster in the left lower leg with his ({iron whip}), bruising the muscle!
+The force pulls the left upper leg!
+The dwarf speardwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The goblin spearman corpse misses the weregila monster!
+The goblin pikeman corpse loses hold of the ({copper left gauntlet}).
+The goblin pikeman corpse loses hold of the ({alpaca wool left glove}).
+The weregila monster kicks the goblin pikeman corpse in the left upper arm with its left foot and the severed part sails off in an arc!
+The dwarf speardwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse scratches the weregila monster in the left lower arm, denting the scale and bruising the fat!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf speardwarf corpse charges at the weregila monster!
+The dwarf speardwarf corpse collides with the weregila monster!
+The dwarf speardwarf corpse is knocked over and tumbles backward!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force pulls the neck!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf speardwarf corpse stands up.
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+They tangle together and tumble forward!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stands up.
+The goblin spearman corpse misses the weregila monster!
+The goblin pikeman corpse stands up.
+The dwarf pikedwarf corpse misses the weregila monster!
+The weregila monster bites the dwarf lasher corpse in the right hand, but the attack is deflected by the dwarf lasher corpse's ({bronze right gauntlet})!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse charges at the dwarf pikedwarf corpse!
+The dwarf pikedwarf corpse collides with the dwarf pikedwarf corpse!
+The dwarf pikedwarf corpse is knocked over!
+The dwarf axedwarf corpse stands up.
+The dwarf lasher corpse charges at the dwarf axedwarf corpse!
+The dwarf lasher corpse collides with the dwarf axedwarf corpse!
+The dwarf axedwarf corpse is knocked over!
+The elf pikeman corpse stands up.
+The weregila monster scratches the dwarf lasher corpse in the right upper leg, bruising the bone through the x({dog leather cloak})x!
+The force pulls the right hip!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The goblin spearman corpse charges at the elf pikeman corpse!
+The goblin spearman corpse collides with the elf pikeman corpse!
+They tangle together and tumble forward!
+The dwarf pikedwarf corpse attacks the weregila monster but It jumps away!
+The dwarf pikedwarf corpse stands up.
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse stands up.
+The weregila monster bites the dwarf axedwarf corpse in the upper body, bruising the muscle through the x({rope reed cloak})x!
+The weregila monster latches on firmly!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The weregila monster scratches the dwarf axedwarf corpse in the right hand, but the attack is deflected by the dwarf axedwarf corpse's ({iron right gauntlet})!
+The force twists the right wrist!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf speardwarf corpse misses the weregila monster!
+The weregila monster scratches the dwarf axedwarf corpse in the lower body, bruising the muscle through the X({rope reed cloak})X!
+The dwarf lasher corpse kicks the weregila monster in the left foot with his right foot, bruising the muscle!
+The force bends the left lower leg, tearing apart the scale and bruising the fat!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+The dwarf lasher corpse bounces backward!
+The weregila monster kicks the dwarf axedwarf corpse in the head with its right foot, but the attack glances away!
+The force bends the neck, tearing apart the muscle!
+A tendon in the upper spine has been torn!
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse lashes the weregila monster in the upper body with his ({silver whip}), bruising the muscle and bruising the left lung!
+The goblin pikeman corpse charges at the weregila monster!
+The goblin pikeman corpse collides with the weregila monster!
+They tangle together and tumble forward!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the right lower arm, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The force twists the right elbow!
+The goblin pikeman corpse attacks the weregila monster but It jumps away!
+The weregila monster bites the goblin pikeman corpse in the right lower arm, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The weregila monster latches on firmly!
+The goblin pikeman corpse stands up.
+The weregila monster scratches the goblin pikeman corpse in the right lower leg, but the attack glances away!
+The force pulls the right knee!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper arm with her ({iron pike}), tearing the muscle!
+A motor nerve has been severed!
+The ({iron pike}) has lodged firmly in the wound!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stands up.
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf lasher corpse charges at the goblin pikeman corpse!
+The dwarf lasher corpse collides with the goblin pikeman corpse!
+The goblin pikeman corpse is knocked over!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The goblin pikeman corpse stands up.
+The weregila monster kicks the goblin pikeman corpse in the upper body with its left foot, bruising the muscle and shattering the right floating ribs through the ({bronze mail shirt})!
+The elf lasher corpse misses the weregila monster!
+The goblin spearman corpse stands up.
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the right upper leg with its right foot, but the attack glances away!
+The force pulls the right hip!
+A ligament has been torn and a tendon has been torn!
+The goblin pikeman corpse misses the weregila monster!
+The elf lasher corpse lashes the weregila monster in the right lower arm with his ({bronze whip}), bruising the muscle!
+The weregila monster kicks the goblin pikeman corpse in the right hand with its right foot, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The force bends the right wrist!
+A ligament has been torn and a tendon has been torn!
+The weregila monster charges at the goblin pikeman corpse!
+The weregila monster collides with the goblin pikeman corpse!
+The goblin pikeman corpse is knocked over!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The goblin pikeman corpse stands up.
+The elf lasher corpse charges at the weregila monster!
+The elf lasher corpse collides with the weregila monster!
+The elf lasher corpse is knocked over and tumbles backward!
+The elf lasher corpse stands up.
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the lower left back teeth with its right foot and the severed part sails off in an arc!
+The elf lasher corpse misses the weregila monster!
+The elf pikeman corpse stands up.
+The elf maceman corpse misses the weregila monster!
+The flying ({copper arrow}) strikes the gorlak recruit in the right upper leg, tearing the muscle and bruising the bone through the x({small kangaroo leather chausse})x!
+A tendon has been torn!
+The force bends the right hip, tearing apart the muscle and tearing apart the muscle!
+The gorlak recruit falls over.
+The weregila monster kicks the goblin pikeman corpse in the right hand with its left foot, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The force twists the right wrist!
+A ligament has been torn and a tendon has been torn!
+The dwarf lasher corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The elf maceman corpse charges at the weregila monster!
+The elf maceman corpse collides with the weregila monster!
+The elf maceman corpse is knocked over and tumbles backward!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf maceman corpse stands up.
+The weregila monster kicks the goblin pikeman corpse in the left lower leg with its left foot, but the attack glances away!
+The force pulls the left knee!
+A ligament has been torn and a tendon has been torn!
+The elf lasher corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf maceman corpse bashes the weregila monster in the right foot with his ({bronze flail}), bruising the muscle!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the left foot, but the attack is deflected by the goblin pikeman corpse's ({bronze low boot})!
+The dwarf hammerdwarf corpse charges at the weregila monster!
+The dwarf hammerdwarf corpse collides with the weregila monster!
+The dwarf hammerdwarf corpse is knocked over!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper body, but the attack glances away!
+The elf lasher corpse misses the weregila monster!
+The dwarf lasher corpse bites the weregila monster in the right hand, tearing the muscle!
+The elf lasher corpse charges at the weregila monster!
+The elf lasher corpse collides with the weregila monster!
+The elf lasher corpse is knocked over and tumbles backward!
+The goblin pikeman corpse charges at the weregila monster!
+The goblin pikeman corpse collides with the weregila monster!
+They tangle together and tumble forward!
+The dwarf hammerdwarf corpse stands up.
+The dwarf lasher corpse stands up.
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+Cetele Semasinu, Gorlak Recruit: Those injuries...  Begone fear!
+The weregila monster bites the goblin pikeman corpse in the upper body, bruising the muscle through the ({bronze mail shirt})!
+The weregila monster latches on firmly!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The elf maceman corpse charges at the dwarf hammerdwarf corpse!
+The elf maceman corpse collides with the dwarf hammerdwarf corpse!
+They tangle together and tumble forward!
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf hammerdwarf corpse stands up.
+The elf maceman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The goblin pikeman corpse punches the weregila monster in the head with his right hand, bruising the muscle!
+The force twists the neck, tearing apart the fat!
+The weregila monster kicks the goblin pikeman corpse in the left lower leg with its right foot, fracturing the bone through the x({llama wool chausse})x!
+The force pulls the left knee!
+A ligament has been torn and a tendon has been torn!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The dwarf speardwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper body, but the attack glances away!
+Cetele Semasinu, Gorlak Recruit: I've been injured badly.  There is no hope!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, but the attack glances away!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf speardwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper body, but the attack glances away!
+The dwarf swordsdwarf corpse charges at the weregila monster!
+The dwarf swordsdwarf corpse collides with the weregila monster!
+The dwarf swordsdwarf corpse bounces backward!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the left upper leg, but the attack glances away!
+The force bends the left hip!
+The dwarf lasher corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf axedwarf corpse stands up.
+The goblin pikeman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The weregila monster kicks the goblin pikeman corpse in the lower body with its right foot, bruising the muscle through the ({bronze mail shirt})!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse punches the weregila monster in the left lower leg with his right hand, bruising the muscle!
+The force bends the left upper leg!
+The weregila monster kicks the goblin pikeman corpse in the upper body with its left foot, bruising the muscle and shattering the left false ribs through the ({bronze mail shirt})!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The dwarf hammerdwarf corpse charges at the weregila monster!
+The dwarf hammerdwarf corpse collides with the weregila monster!
+The dwarf hammerdwarf corpse is knocked over!
+The elf maceman corpse misses the weregila monster!
+The elf maceman corpse stands up.
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse slashes the weregila monster in the right upper leg with her ({silver scimitar}), tearing the muscle!
+The weregila monster kicks the goblin pikeman corpse in the head with its left foot, but the attack glances away!
+The force bends the neck!
+A tendon in the upper spine has been bruised!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf lasher corpse stands up.
+The elf maceman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force bends the neck!
+The dwarf axedwarf corpse hacks the weregila monster in the left upper arm with his ({iron great axe}), tearing apart the muscle!
+A sensory nerve has been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The goblin pikeman corpse bites the weregila monster in the right lower leg, tearing the scale and bruising the muscle!
+The goblin pikeman corpse latches on firmly!
+The dwarf axedwarf corpse charges at the dwarf swordsdwarf corpse!
+The dwarf axedwarf corpse collides with the dwarf swordsdwarf corpse!
+The dwarf swordsdwarf corpse is knocked over!
+The elf maceman corpse bashes the weregila monster in the right upper leg with his ({bronze flail}), bruising the fat!
+The dwarf axedwarf corpse pulls on the embedded ({iron great axe}).
+The dwarf axedwarf corpse gains possession of the ({iron great axe}).
+The dwarf lasher corpse lashes the weregila monster in the tail with his ({iron whip}), bruising the muscle!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force bends the neck!
+The elf lasher corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf maceman corpse bashes the weregila monster in the left lower leg with his ({bronze flail}), bruising the muscle!
+The goblin pikeman corpse stabs the weregila monster in the left lower leg with his ({copper pike}), tearing apart the scale!
+The ({copper pike}) has lodged firmly in the wound!
+The dwarf hammerdwarf corpse bashes the weregila monster in the upper body with his ({iron maul}), bruising the scale!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse pulls on the embedded ({copper pike}).
+The goblin pikeman corpse gains possession of the ({copper pike}).
+The weregila monster scratches the goblin pikeman corpse in the right hand, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The force twists the right wrist!
+The dwarf lasher corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The flying ({silver arrow}) misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left lower leg with her ({iron pike}), tearing the muscle!
+The force twists the left upper leg!
+The elf maceman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, bruising the muscle through the ({bronze mail shirt})!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse slashes the weregila monster in the right upper arm with her ({silver scimitar}), tearing apart the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The weregila monster scratches the goblin pikeman corpse in the right hand, but the attack is deflected by the goblin pikeman corpse's ({copper right gauntlet})!
+The elf lasher corpse lashes the weregila monster in the right upper arm with his ({bronze whip}), chipping the bone!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the upper body with her ({iron pike}), tearing the muscle and shattering the right true ribs!
+A tendon in the right true ribs has been torn!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The dwarf lasher corpse lashes the weregila monster in the left lower arm with his ({iron whip}), bruising the muscle!
+The weregila monster scratches the goblin pikeman corpse in the upper body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The elf lasher corpse misses the weregila monster!
+The elf maceman corpse bashes the weregila monster in the head with his ({bronze flail}), bruising the muscle!
+The force bends the neck, tearing apart the fat!
+The weregila monster scratches the goblin pikeman corpse in the left foot, but the attack is deflected by the goblin pikeman corpse's ({bronze low boot})!
+The force pulls the left ankle!
+The dwarf axedwarf corpse hacks the weregila monster in the right lower leg with his ({iron great axe}), tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The dwarf swordsdwarf corpse slashes the weregila monster in the second toe, left foot with her ({silver scimitar}) and the severed part sails off in an arc!
+The dwarf hammerdwarf corpse punches the weregila monster in the left lower leg with his right hand, bruising the muscle!
+The force bends the left upper leg, bruising the scale!
+The dwarf lasher corpse lashes the weregila monster in the right upper leg with his ({iron whip}), bruising the muscle!
+The elf pikeman corpse stabs the weregila monster in the right hand with his ({iron pike}), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The ({iron pike}) has lodged firmly in the wound!
+The elf maceman corpse bashes the weregila monster in the upper body with his ({bronze flail}), bruising the fat!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The dwarf axedwarf corpse pulls on the embedded ({iron great axe}).
+The dwarf axedwarf corpse gains possession of the ({iron great axe}).
+The goblin pikeman corpse stabs the weregila monster in the right upper arm with his ({copper pike})!
+A tendon has been torn!
+The flying ({copper arrow}) strikes the weregila monster in the right upper leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The elf lasher corpse lashes the weregila monster in the upper body with his ({bronze whip}), bruising the muscle and bruising the right lung!
+The elf pikeman corpse pulls on the embedded ({iron pike}).
+The elf pikeman corpse gains possession of the ({iron pike}).
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse punches the weregila monster in the right lower leg with his right hand, but the attack glances away!
+The elf maceman corpse bashes the weregila monster in the right hand with his ({bronze flail}), bruising the muscle!
+The elf pikeman corpse stabs the weregila monster in the left hand with his ({iron pike}), tearing the fat!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The dwarf swordsdwarf corpse stabs the weregila monster in the left upper leg with her ({silver scimitar}), tearing the fat!
+The elf lasher corpse lashes the weregila monster in the left upper leg with his ({bronze whip}), bruising the scale!
+The weregila monster scratches the goblin pikeman corpse in the lower body, but the attack is deflected by the goblin pikeman corpse's ({bronze mail shirt})!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse stabs the weregila monster in the right hand with his ({iron pike}), fracturing the bone!
+A ligament has been torn and a tendon has been torn!
+The weregila monster scratches the goblin pikeman corpse in the left lower leg, but the attack glances away!
+The XX({rope reed dress})XX is ripped to shreds!
+The force bends the left knee!
+The dwarf lasher corpse bites the weregila monster in the right lower arm, tearing the scale and bruising the muscle!
+The dwarf lasher corpse latches on firmly!
+The elf maceman corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the lower body, bruising the muscle and bruising the lower spine's bone through the ({bronze mail shirt})!
+The elf maceman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf pikeman corpse stabs the weregila monster in the lower body with his ({iron pike}), tearing the muscle and tearing the guts!
+The ({iron pike}) has lodged firmly in the wound!
+The dwarf swordsdwarf corpse slashes the weregila monster in the left hand with her ({silver scimitar}), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The goblin pikeman corpse misses the weregila monster!
+The elf lasher corpse lashes the weregila monster in the left foot with his ({bronze whip}), bruising the muscle!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf maceman corpse bashes the weregila monster in the left lower leg with his ({bronze flail}), bruising the fat!
+The weregila monster scratches the goblin pikeman corpse in the left foot, but the attack is deflected by the goblin pikeman corpse's ({bronze low boot})!
+The force twists the left ankle!
+The elf pikeman corpse pulls on the embedded ({iron pike}).
+The elf pikeman corpse gains possession of the ({iron pike}).
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The elf pikeman corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf lasher corpse lashes the weregila monster in the right foot with his ({bronze whip}), bruising the muscle!
+The dwarf pikedwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The elf maceman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the right lower leg, but the attack glances away!
+The force bends the right knee!
+The dwarf axedwarf corpse misses the weregila monster!
+The dwarf lasher corpse bites the weregila monster in the left hand!
+A tendon has been torn!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The weregila monster scratches the dwarf lasher corpse in the right upper arm, but the attack glances away!
+The force bends the right shoulder!
+The goblin pikeman corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper leg with her ({copper pike}), tearing the muscle and bruising the bone!
+A tendon has been torn!
+The dwarf swordsdwarf corpse slashes the weregila monster in the right lower leg with her ({silver scimitar}), fracturing the bone!
+An artery has been opened by the attack, a ligament has been torn and a tendon has been torn!
+The force bends the right upper leg, tearing apart the scale!
+The elf lasher corpse lashes the weregila monster in the left upper arm with his ({bronze whip}), chipping the bone!
+The dwarf axedwarf corpse misses the weregila monster!
+The weregila monster scratches the dwarf lasher corpse in the upper front teeth and the severed part sails off in an arc!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf maceman corpse bashes the weregila monster in the right upper leg with his ({bronze flail}), bruising the muscle!
+The dwarf lasher corpse kicks the weregila monster in the tail with his left foot and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf swordsdwarf corpse stabs the weregila monster in the right foot with her ({silver scimitar}), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, a sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force pulls the right lower leg!
+The elf lasher corpse bites the weregila monster in the head, denting the scale and bruising the fat!
+The elf lasher corpse latches on firmly!
+The weregila monster scratches the goblin pikeman corpse in the head, but the attack is deflected by the goblin pikeman corpse's ({iron helm})!
+The force twists the neck!
+The elf maceman corpse bashes the weregila monster in the right foot with his ({bronze flail}), bruising the muscle!
+The force pulls the right lower leg!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse stabs the weregila monster in the right lower arm with his ({copper pike}), tearing the fat!
+The ({copper pike}) has lodged firmly in the wound!
+The dwarf swordsdwarf corpse slashes the weregila monster in the left foot with her ({silver scimitar}), tearing apart the muscle and bruising the bone!
+A sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The dwarf axedwarf corpse hacks the weregila monster in the left foot with his ({iron great axe}), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The elf lasher corpse misses the weregila monster!
+The flying ({copper arrow}) strikes the weregila monster in the right lower arm, tearing the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The dwarf hammerdwarf corpse bashes the weregila monster in the upper body with his ({iron maul}), bruising the fat!
+The weregila monster scratches the goblin pikeman corpse in the left upper leg, but the attack glances away!
+The XX({llama wool chausse})XX is ripped to shreds!
+The force pulls the left hip!
+The dwarf lasher corpse lashes the weregila monster in the right upper arm with his ({iron whip}), chipping the bone!
+The dwarf swordsdwarf corpse slashes the weregila monster in the right lower leg with her ({silver scimitar}), tearing apart the muscle!
+A sensory nerve has been severed!
+The ({silver scimitar}) has lodged firmly in the wound!
+The dwarf axedwarf corpse pulls on the embedded ({iron great axe}).
+The dwarf axedwarf corpse gains possession of the ({iron great axe}).
+The goblin pikeman corpse pulls on the embedded ({copper pike}).
+The goblin pikeman corpse gains possession of the ({copper pike}).
+The elf maceman corpse bashes the weregila monster in the left upper leg with his ({bronze flail}), bruising the muscle!
+The dwarf pikedwarf corpse stabs the weregila monster in the right lower leg with her ({copper pike})!
+A ligament has been torn and a tendon has been torn!
+The dwarf axedwarf corpse hacks the weregila monster in the left lower arm with his ({iron great axe}), tearing apart the muscle!
+Many nerves have been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The goblin pikeman corpse stabs the weregila monster in the right hand with his ({copper pike})!
+A ligament has been torn and a tendon has been torn!
+The weregila monster scratches the goblin pikeman corpse in the upper body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf hammerdwarf corpse bashes the weregila monster in the left upper leg with his ({iron maul}), bruising the muscle!
+The dwarf swordsdwarf corpse pulls on the embedded ({silver scimitar}).
+The dwarf swordsdwarf corpse gains possession of the ({silver scimitar}).
+The dwarf axedwarf corpse pulls on the embedded ({iron great axe}).
+The dwarf axedwarf corpse gains possession of the ({iron great axe}).
+The dwarf lasher corpse punches the weregila monster in the right foot with his right hand, but the attack glances away!
+The force pulls the right lower leg, tearing apart the scale!
+The elf lasher corpse lashes the weregila monster in the left hand with his ({bronze whip}), chipping the bone!
+The dwarf pikedwarf corpse stabs the weregila monster in the upper body with her ({copper pike}), tearing the muscle!
+The dwarf axedwarf corpse hacks the weregila monster in the left lower arm with his ({iron great axe}), tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The dwarf swordsdwarf corpse stabs the weregila monster in the right hand with her ({silver scimitar}), tearing apart the muscle!
+A motor nerve has been severed!
+The ({silver scimitar}) has lodged firmly in the wound!
+The elf maceman corpse bashes the goblin in the lower body with his ({bronze flail}), bruising the muscle and bruising the stomach!
+The dwarf hammerdwarf corpse bashes the goblin in the head with his ({iron maul}), bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The dwarf lasher corpse lashes the goblin in the head with his ({iron whip}), bruising the muscle, jamming the skull through the brain and tearing the brain!
+Cetele Semasinu, Gorlak Recruit: Death is all around us.  This cannot horrify me.
+The dwarf hammerdwarf corpse stands up.
+Cut goshenite (5) has been completed.
+Kib Étastoddom has created a masterpiece schist throne!
+Construct rock Table (15) has been completed.
+Make Charcoal (30) has been completed.
+Construct rock Throne (15) has been completed.
+You have struck cassiterite!
+Cut brown zircon (5) has been completed.
+You have struck cassiterite!
+The weather has cleared.
+Winter is upon you.
+Kib Alaksazir, Tanner cancels Fertilize Field: Needs potash.
+x2
+Olon Rigïthatham, Planter cancels Fertilize Field: Needs potash.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck cassiterite!
+You have struck native silver!
+You have struck galena!
+Kib Alaksazir, Tanner cancels Plant Seeds: Needs plump helmet spawn.
+Make Ash (20) has been completed.
+You have struck goshenite!
+You have struck cassiterite!
+Cut green tourmaline (5) has been completed.
+It has started raining.
+You have struck black zircon!
+You have struck indigo tourmaline!
+You have struck cassiterite!
+Cut green zircon (5) has been completed.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck cassiterite!
+Fikod Logemãdath, Carpenter cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck green tourmaline!
+You have struck brown zircon!
+You have struck cobaltite!
+You have struck native silver!
+You have struck smoky quartz!
+You have struck native silver!
+You have struck black zircon!
+Imush SazirkÑl†n has created a masterpiece quartzite mug!
+You have struck milk quartz!
+You have struck galena!
+You have struck olivine!
+You have struck green zircon!
+You have struck red spinel!
+You have struck tetrahedrite!
+A snow storm has come.
+Olon Rigïthatham, Planter cancels Plant Seeds: Needs plump helmet spawn.
+You have struck pink garnet!
+Brew drink from plant (10) has been completed.
+You have struck tetrahedrite!
+Cut black zircon (5) has been completed.
+You have struck cobaltite!
+You have struck prase!
+You have struck olivine!
+You have struck milk quartz!
+You have struck tetrahedrite!
+Imush SazirkÑl†n has created a masterpiece granite mug!
+You have struck tetrahedrite!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck rutile!
+You have struck galena!
+You have struck morion!
+You have struck hornblende!
+You have struck cobaltite!
+You have struck rubicelle!
+You have struck cobaltite!
+You have struck olivine!
+You have struck tetrahedrite!
+Imush SazirkÑl†n has created a masterpiece schist mug!
+You have struck smoky quartz!
+You have struck prase!
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+You have struck sphalerite!
+You have struck amethyst!
+Ast Godenasiz, Miller has given birth to a boy.
+You have struck tetrahedrite!
+You have struck green zircon!
+You have struck olivine!
+You have struck green zircon!
+Cut brown zircon (5) has been completed.
+You have struck prase!
+You have struck purple spinel!
+The flying ({copper arrow}) misses the weregila monster!
+The weregila monster kicks the dwarf lasher corpse in the left upper arm with its right foot and the injured part is smashed into the body, an unrecognizable mass!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster kicks the dwarf lasher corpse in the right eye with its right foot and the injured part collapses!
+The force twists the head, tearing apart the fat!
+The weregila monster bites the dwarf lasher corpse in the upper body, bruising the muscle through the x({gray langur leather cloak})x!
+The weregila monster latches on firmly!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster scratches the dwarf lasher corpse in the head, but the attack is deflected by the dwarf lasher corpse's ({bronze helm})!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The dwarf lasher corpse charges at the weregila monster!
+The dwarf lasher corpse collides with the weregila monster!
+The dwarf lasher corpse is knocked over!
+The dwarf lasher corpse misses the weregila monster!
+The weregila monster punches the dwarf lasher corpse in the lower right back teeth with its left hand and the severed part sails off in an arc!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster bites the goblin pikeman corpse in the left lower leg, but the attack glances away!
+The dwarf lasher corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster scratches the dwarf lasher corpse in the right lower leg, but the attack is deflected by the dwarf lasher corpse's ({bronze high boot})!
+The force twists the right knee, bruising the muscle and bruising the muscle!
+The goblin pikeman corpse misses the weregila monster!
+The goblin pikeman corpse charges at the weregila monster!
+The weregila monster jumps away!
+The dwarf lasher corpse misses the weregila monster!
+The goblin axeman corpse misses the weregila monster!
+The weregila monster bites the goblin axeman corpse in the left eye, tearing it through the x({sheep wool cloak})x!
+Weregila monster extract splatters over the left eye!
+The weregila monster latches on firmly!
+The goblin pikeman corpse misses the weregila monster!
+The elf spearman corpse misses the weregila monster!
+The weregila monster punches the goblin axeman corpse in the right upper leg with its right hand, bruising the bone through the x({sheep wool cloak})x!
+The force pulls the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The dwarf lasher corpse lashes the weregila monster in the tail with his ({silver whip}), bruising the fat!
+The goblin pikeman corpse misses the weregila monster!
+The goblin axeman corpse misses the weregila monster!
+The elf spearman corpse misses the weregila monster!
+The weregila monster punches the goblin axeman corpse in the tongue with its right hand, bruising the left cheek's skin through the x({sheep wool cloak})x!
+The force twists the head, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf lasher corpse punches the weregila monster in the right eye with his right hand and the right eyelid explodes into gore!
+The force pulls the head, tearing apart the scale!
+The goblin pikeman corpse misses the weregila monster!
+The goblin pikeman corpse charges at the weregila monster!
+The goblin pikeman corpse collides with the weregila monster!
+They tangle together and tumble forward!
+The flying ({silver bolt}) misses the weregila monster!
+The dwarf lasher corpse stands up.
+The goblin axeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The elf spearman corpse misses the weregila monster!
+The dwarf axedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The weregila monster bites the goblin pikeman corpse in the upper body, but the attack glances away!
+The weregila monster latches on firmly!
+The goblin axeman corpse misses the weregila monster!
+The elf spearman corpse misses the weregila monster!
+The weregila monster scratches the goblin pikeman corpse in the upper body, bruising the muscle through the ({bronze mail shirt})!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The flying ({copper arrow}) misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse charges at the weregila monster!
+The dwarf pikedwarf corpse collides with the weregila monster!
+They tangle together and tumble forward!
+The goblin axeman corpse misses the weregila monster!
+The elf spearman corpse misses the weregila monster!
+The goblin pikeman corpse stands up.
+The weregila monster punches the goblin axeman corpse in the upper body with its left hand, bruising the muscle and bruising the heart through the x({sheep wool cloak})x!
+The flying ({silver bolt}) misses the weregila monster!
+The weregila monster bites the goblin axeman corpse in the head, but the attack is deflected by the goblin axeman corpse's ({bronze helm})!
+The weregila monster latches on firmly!
+The dwarf pikedwarf corpse stabs the weregila monster in the lower body with her ({iron pike}), tearing the muscle and tearing the lower spine's nervous tissue!
+An artery has been opened by the attack!
+A tendon in the lower spine has been torn!
+The elf spearman corpse misses the weregila monster!
+The goblin pikeman corpse misses the weregila monster!
+The goblin axeman corpse misses the weregila monster!
+The dwarf lasher corpse misses the weregila monster!
+The flying ({silver bolt}) misses the weregila monster!
+The weregila monster scratches the goblin axeman corpse in the left lower leg, bruising the muscle through the x({rope reed chausse})x!
+The force twists the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The elf spearman corpse stabs the weregila monster in the right upper arm with her ({silver spear}), tearing the scale!
+The goblin axeman corpse hacks the weregila monster in the right upper leg with his ({iron great axe}), tearing apart the fat!
+The dwarf pikedwarf corpse stabs the weregila monster in the right foot with her ({iron pike}), tearing the muscle!
+A motor nerve has been severed!
+The ({iron pike}) has lodged firmly in the wound!
+The weregila monster scratches the goblin axeman corpse in the lower body, bruising the muscle and bruising the spleen through the X({sheep wool cloak})X!
+The dwarf lasher corpse lashes the weregila monster in the right lower leg with his ({silver whip}), bruising the muscle!
+The goblin pikeman corpse stabs the weregila monster in the lower body with his ({copper pike}), tearing the muscle and tearing the guts!
+The ({copper pike}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse pulls on the embedded ({iron pike}).
+The dwarf pikedwarf corpse gains possession of the ({iron pike}).
+The goblin axeman corpse misses the weregila monster!
+The dwarf macedwarf corpse misses the weregila monster!
+The elf spearman corpse charges at the goblin pikeman corpse!
+The elf spearman corpse collides with the goblin pikeman corpse!
+They tangle together and fall over!
+The dwarf pikedwarf corpse stabs the weregila monster in the right upper leg with her ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The goblin pikeman corpse stands up.
+The weregila monster punches the goblin axeman corpse in the right upper arm with its left hand, bruising the bone through the X({sheep wool cloak})X!
+The force twists the right shoulder, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The goblin pikeman corpse pulls on the embedded ({copper pike}).
+The goblin pikeman corpse gains possession of the ({copper pike}).
+The elf spearman corpse misses the weregila monster!
+The dwarf lasher corpse kicks the weregila monster in the lower body with his right foot, bruising the muscle!
+The elf crossbowman corpse stands up.
+The goblin axeman corpse misses the weregila monster!
+The dwarf macedwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin axeman corpse in the right foot, but the attack is deflected by the goblin axeman corpse's ({bronze low boot})!
+The force bends the right ankle!
+The goblin pikeman corpse stabs the weregila monster in the left upper leg with his ({copper pike}), tearing the fat!
+The ({copper pike}) has lodged firmly in the wound!
+The dwarf macedwarf corpse bashes the weregila monster in the right foot with her ({bronze mace}), bruising the fat!
+The elf spearman corpse stabs the weregila monster in the right lower leg with her ({silver spear}), tearing the fat!
+The ({silver spear}) has lodged firmly in the wound!
+The goblin pikeman corpse pulls on the embedded ({copper pike}).
+The goblin pikeman corpse gains possession of the ({copper pike}).
+The goblin axeman corpse misses the weregila monster!
+The goblin axeman corpse charges at the dwarf lasher corpse!
+The goblin axeman corpse collides with the dwarf lasher corpse!
+The goblin axeman corpse bounces backward!
+The weregila monster punches the goblin axeman corpse in the right lower leg with its left hand, bruising the muscle through the ({rope reed chausse})!
+The force pulls the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the head with her ({iron pike}), tearing the muscle, fracturing the skull!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the scale!
+The goblin axeman corpse hacks the weregila monster in the right lower arm with his ({iron great axe}), tearing the muscle!
+The dwarf lasher corpse lashes the weregila monster in the neck with his ({silver whip}), bruising the muscle and chipping the upper spine's bone!
+The elf spearman corpse pulls on the embedded ({silver spear}).
+The elf spearman corpse gains possession of the ({silver spear}).
+The dwarf pikedwarf corpse kicks the weregila monster in the left lower arm with her right foot, bruising the muscle!
+The dwarf macedwarf corpse kicks the weregila monster in the left upper leg with her left foot, bruising the muscle!
+The goblin pikeman corpse stabs the weregila monster in the right hand with his ({copper pike}), tearing the fat!
+The weregila monster punches the goblin axeman corpse in the mouth with its left hand, bruising the left cheek's skin through the X({sheep wool cloak})X!
+The force twists the head, tearing apart the fat!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The elf spearman corpse stabs the weregila monster in the right foot with her ({silver spear}), tearing apart the muscle!
+A motor nerve has been severed!
+The ({silver spear}) has lodged firmly in the wound!
+The goblin axeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the right lower leg with her ({iron pike}), fracturing the bone!
+An artery has been opened by the attack, a ligament has been torn and a tendon has been torn!
+The force bends the right upper leg, bruising the scale!
+The dwarf axedwarf corpse stabs the weregila monster in the left upper leg with her ({bronze halberd}), tearing the fat!
+The dwarf lasher corpse lashes the weregila monster in the left lower leg with his ({silver whip}), bruising the fat!
+The dwarf hammerdwarf corpse bashes the weregila monster in the lower body with his ({iron maul}), bruising the fat!
+The dwarf macedwarf corpse bashes the weregila monster in the upper body with her ({bronze mace}), bruising the muscle and bruising the heart!
+The elf spearman corpse pulls on the embedded ({silver spear}).
+The elf spearman corpse gains possession of the ({silver spear}).
+The weregila monster scratches the goblin axeman corpse in the lower body, bruising the muscle and bruising the guts through the XX({sheep wool cloak})XX!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse kicks the weregila monster in the head with her left foot, bruising the muscle!
+The force bends the neck, tearing apart the fat!
+The goblin axeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the upper body with her ({iron pike}), tearing the muscle and tearing the right lung!
+The elf spearman corpse stabs the weregila monster in the tail with her ({silver spear}), tearing the muscle!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf macedwarf corpse bashes the weregila monster in the right upper arm with her ({bronze mace}), bruising the muscle!
+The dwarf axedwarf corpse misses the weregila monster!
+The weregila monster scratches the goblin axeman corpse in the left cheek, tearing the skin through the XX({sheep wool cloak})XX!
+The XX({sheep wool cloak})XX is ripped to shreds!
+The XX({llama wool coat})XX is ripped to shreds!
+The force bends the head, tearing apart the fat!
+The dwarf pikedwarf corpse stabs the weregila monster in the tail with her ({bronze pike}), tearing apart the muscle!
+An artery has been opened by the attack!
+The goblin pikeman corpse misses the weregila monster!
+The dwarf lasher corpse lashes the weregila monster in the upper body with his ({silver whip}), bruising the muscle and chipping the left false ribs!
+The dwarf pikedwarf corpse misses the weregila monster!
+The goblin axeman corpse misses the weregila monster!
+The dwarf macedwarf corpse bashes the weregila monster in the left upper leg with her ({bronze mace}), bruising the muscle!
+The elf spearman corpse stabs the weregila monster in the right upper arm with her ({silver spear}), tearing the muscle!
+A sensory nerve has been severed!
+The ({silver spear}) has lodged firmly in the wound!
+The weregila monster scratches the goblin axeman corpse in the right cheek, tearing the skin through the XX({alpaca wool dress})XX!
+The XX({alpaca wool dress})XX is ripped to shreds!
+The force bends the head, tearing apart the fat!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The dwarf axedwarf corpse slashes the weregila monster in the right foot with her ({bronze halberd}), tearing apart the fat!
+The goblin pikeman corpse stabs the weregila monster in the right upper arm with his ({copper pike}), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, a motor nerve has been severed and a tendon has been torn!
+The goblin axeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left lower arm with her ({bronze pike}), tearing the muscle!
+A sensory nerve has been severed!
+The dwarf lasher corpse punches the weregila monster in the right upper leg with his right hand, bruising the muscle!
+The elf spearman corpse pulls on the embedded ({silver spear}).
+The elf spearman corpse gains possession of the ({silver spear}).
+The dwarf speardwarf corpse stabs the weregila monster in the right upper leg with his ({silver spear}), tearing the muscle and bruising the bone!
+A tendon has been torn!
+The dwarf macedwarf corpse bashes the weregila monster in the head with her ({bronze mace}), bruising the muscle!
+The elf spearman corpse strikes the weregila monster in the right lower arm with her ({bronze shield}), bruising the muscle!
+The force bends the right upper arm, bruising the scale!
+The weregila monster scratches the goblin axeman corpse in the left upper arm, bruising the bone through the ({copper mail shirt})!
+The dwarf pikedwarf corpse stabs the weregila monster in the right upper arm with her ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The flying ({copper arrow}) misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper leg with her ({copper pike}), tearing the muscle!
+The dwarf axedwarf corpse stabs the weregila monster in the upper body with her ({bronze halberd}), tearing the muscle!
+The flying ({copper arrow}) strikes the weregila monster in the lower body, tearing the muscle and spilling its filthy guts!
+The ({copper arrow}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse stabs the weregila monster in the left lower leg with her ({bronze pike}), tearing the muscle!
+The dwarf hammerdwarf corpse misses the weregila monster!
+The goblin axeman corpse misses the weregila monster!
+The dwarf macedwarf corpse bashes the weregila monster in the right hand with her ({bronze mace}), bruising the muscle!
+The dwarf pikedwarf corpse stabs the weregila monster in the left foot with her ({iron pike}), tearing the fat!
+The weregila monster scratches the goblin axeman corpse in the lower body, bruising the muscle and bruising the spleen through the ({copper mail shirt})!
+The dwarf pikedwarf corpse stabs the weregila monster in the left foot with her ({bronze pike}), tearing the muscle!
+A sensory nerve has been severed!
+The ({bronze pike}) has lodged firmly in the wound!
+The dwarf speardwarf corpse stabs the weregila monster in the right upper leg with his ({silver spear}), tearing apart the muscle and bruising the bone!
+A sensory nerve has been severed and a tendon has been torn!
+The dwarf lasher corpse lashes the weregila monster in the left lower arm with his ({silver whip}), bruising the muscle!
+The dwarf lasher corpse lashes the weregila monster in the left lower leg with his ({iron whip}), chipping the bone!
+The elf spearman corpse stabs the weregila monster in the left upper arm with her ({silver spear}), tearing the muscle!
+A sensory nerve has been severed!
+The ({silver spear}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse stabs the weregila monster in the right upper leg with her ({copper pike})!
+A tendon has been torn!
+The dwarf pikedwarf corpse pulls on the embedded ({bronze pike}).
+The dwarf pikedwarf corpse gains possession of the ({bronze pike}).
+The dwarf pikedwarf corpse stabs the weregila monster in the tail with her ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The dwarf axedwarf corpse stabs the weregila monster in the left upper leg with her ({bronze halberd}), tearing the muscle!
+A motor nerve has been severed!
+The dwarf hammerdwarf corpse bashes the weregila monster in the head with his ({iron maul}), bruising the fat!
+The force pulls the neck, tearing apart the scale and bruising the fat!
+The weregila monster scratches the goblin axeman corpse in the left ear and the severed part sails off in an arc!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper leg with her ({bronze pike}), tearing the muscle!
+An artery has been opened by the attack!
+The elf spearman corpse pulls on the embedded ({silver spear}).
+The elf spearman corpse gains possession of the ({silver spear}).
+The goblin axeman corpse hacks the weregila monster in the left upper arm with his ({iron great axe}), tearing apart the muscle!
+A sensory nerve has been severed!
+The dwarf speardwarf corpse stabs the weregila monster in the left upper leg with his ({silver spear})!
+A tendon has been torn!
+The dwarf macedwarf corpse bashes the weregila monster in the right foot with her ({bronze mace}), bruising the bone!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper arm with her ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The dwarf lasher corpse lashes the weregila monster in the upper body with his ({silver whip}), bruising the muscle and bruising the heart!
+The elf spearman corpse stabs the weregila monster in the right lower leg with her ({silver spear}), tearing the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The dwarf pikedwarf corpse stabs the weregila monster in the upper body with her ({bronze pike}), tearing the muscle!
+The dwarf pikedwarf corpse stabs the weregila monster in the right foot with her ({copper pike}), bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The dwarf lasher corpse lashes the weregila monster in the upper body with his ({iron whip}), bruising the muscle and bruising the left lung!
+The goblin pikeman corpse stabs the weregila monster in the left hand with his ({copper pike}), tearing the muscle!
+A sensory nerve has been severed!
+The weregila monster scratches the goblin axeman corpse in the right cheek, tearing apart the skin!
+The force twists the head, tearing apart the fat!
+The dwarf axedwarf corpse stabs the weregila monster in the right foot with her ({bronze halberd}), tearing apart the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The ({bronze halberd}) has lodged firmly in the wound!
+The goblin axeman corpse hacks the weregila monster in the right foot with his ({iron great axe}), tearing apart the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The ({iron great axe}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse stabs the weregila monster in the right upper leg with her ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The dwarf speardwarf corpse stabs the weregila monster in the left upper leg with his ({silver spear})!
+A tendon has been torn!
+The elf spearman corpse stabs the weregila monster in the left upper leg with her ({silver spear})!
+A tendon has been torn!
+The dwarf pikedwarf corpse stabs the weregila monster in the left foot with her ({bronze pike}), fracturing the bone!
+An artery has been opened by the attack, a ligament has been torn and a tendon has been torn!
+The dwarf macedwarf corpse bashes the weregila monster in the left lower arm with her ({bronze mace}), bruising the muscle!
+The dwarf axedwarf corpse pulls on the embedded ({bronze halberd}).
+The dwarf axedwarf corpse gains possession of the ({bronze halberd}).
+The goblin axeman corpse pulls on the embedded ({iron great axe}).
+The goblin axeman corpse gains possession of the ({iron great axe}).
+The flying ({silver bolt}) strikes the weregila monster in the right upper leg, bruising the bone!
+A tendon has been torn!
+The weregila monster scratches the goblin axeman corpse in the right lower arm, but the attack is deflected by the goblin axeman corpse's ({iron right gauntlet})!
+The force pulls the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The dwarf pikedwarf corpse stabs the weregila monster in the right foot with her ({copper pike}), bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The force twists the right lower leg, tearing apart the scale!
+The dwarf lasher corpse lashes the weregila monster in the lower body with his ({silver whip}), bruising the muscle!
+The elf spearman corpse stabs the weregila monster in the right upper arm with her ({silver spear})!
+A tendon has been torn!
+The goblin pikeman corpse stabs the weregila monster in the left foot with his ({copper pike}), bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The force twists the left lower leg, tearing apart the scale!
+The goblin axeman corpse misses the weregila monster!
+The dwarf pikedwarf corpse stabs the weregila monster in the left upper arm with her ({bronze pike}) and the injured part is cloven asunder!
+A tendon has been torn!
+The dwarf pikedwarf corpse stabs the weregila monster in the left lower arm with her ({iron pike}), tearing the muscle!
+A sensory nerve has been severed!
+The dwarf axedwarf corpse stabs the weregila monster in the left foot with her ({bronze halberd}), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The ({bronze halberd}) has lodged firmly in the wound!
+The dwarf lasher corpse lashes the weregila monster in the left hand with his ({iron whip}), chipping the bone!
+The dwarf macedwarf corpse bashes the weregila monster in the right hand with her ({bronze mace}), bruising the fat!
+The weregila monster scratches the goblin axeman corpse in the lower left back teeth and the severed part sails off in an arc!
+The dwarf pikedwarf corpse stabs the weregila monster in the upper body with her ({copper pike}), tearing apart the muscle and bruising the left lung!
+The dwarf axedwarf corpse pulls on the embedded ({bronze halberd}).
+The dwarf axedwarf corpse gains possession of the ({bronze halberd}).
+The elf spearman corpse bashes the weregila monster in the right hand with the shaft of her ({silver spear}), bruising the muscle!
+The force pulls the right lower arm, tearing apart the scale!
+The elf lasher corpse lashes the weregila monster in the upper body with his ({bronze whip}), bruising the muscle and chipping the right false ribs!
+The goblin pikeman corpse stabs the weregila monster in the throat with his ({copper pike}) and the injured part is cloven asunder!
+A major artery has been opened by the attack!
+The ({copper pike}) has lodged firmly in the wound!
+The force twists the neck, tearing apart the scale and bruising the fat!
+The dwarf pikedwarf corpse stabs the weregila monster in the right upper leg with her ({iron pike}) and the injured part is cloven asunder!
+A tendon has been torn!
+The dwarf lasher corpse lashes the weregila monster in the left foot with his ({silver whip}) and the injured part is crushed!
+The goblin axeman corpse hacks the weregila monster in the right lower leg with his ({iron great axe}), tearing apart the muscle!
+The dwarf pikedwarf corpse stabs the weregila monster in the right lower leg with her ({bronze pike}), fracturing the bone!
+A ligament has been torn and a tendon has been torn!
+The force pulls the right upper leg!
+The dwarf lasher corpse lashes the weregila monster in the tail with his ({iron whip}) and the injured part is crushed!
+The dwarf macedwarf corpse bashes the weregila monster in the right lower leg with her ({bronze mace}), but the attack glances away!
+The weregila monster scratches the goblin axeman corpse in the right foot, but the attack is deflected by the goblin axeman corpse's ({bronze low boot})!
+The dwarf axedwarf corpse stabs the weregila monster in the left lower leg with her ({bronze halberd}), tearing the muscle!
+An artery has been opened by the attack and a motor nerve has been severed!
+The force pulls the left upper leg, bruising the scale!
+The dwarf pikedwarf corpse bashes the weregila monster in the left upper leg with the shaft of her ({copper pike}), bruising the muscle!
+The dwarf swordsdwarf corpse stabs the weregila monster in the neck with her ({silver scimitar}) and the severed part sails off in an arc!
+The dwarf pikedwarf corpse stands up.
+The elf spearman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+You have struck prase!
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+Imush SazirkÑl†n has created a masterpiece schist mug!
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+Edâm VabìkinsÇl, Glazer cancels Cut goshenite: Needs rough goshenites.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+You have struck purple spinel!
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+Make rock Mug (40) has been completed.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+The goblin axeman corpse falls over.
+The goblin axeman corpse stands up.
+Cerol GeshudkÑl†n, Miner cancels Dig: Experiencing emotional shock.
+You have struck turquoise!
+Cut green tourmaline (5) has been completed.
+The weather has cleared.
+Olon Rigïthatham, Planter cancels Plant Seeds: Needs plump helmet spawn.
+You have struck goshenite!
+You have struck black zircon!
+You have struck smoky quartz!
+You have struck black zircon!
+Kib Alaksazir, Tanner cancels Plant Seeds: Needs plump helmet spawn.
+Olon Rigïthatham, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Cut green zircon (5) has been completed.
+You have struck rose quartz!
+x2
+You have struck brown zircon!
+You have struck goshenite!
+You have struck green tourmaline!
+Brew drink from plant (10) has been completed.
+Cut black zircon (5) has been completed.
+A snow storm has come.
+You have struck rubicelle!
+You have struck red spinel!
+You have struck rose quartz!
+You have struck turquoise!
+You have struck brown zircon!
+The weather has cleared.
+You have struck brown zircon!
+Cut goshenite (5) has been completed.
+You have struck amethyst!
+You have struck rose quartz!
+Cerol GeshudkÑl†n, Miner cancels Dig: Experiencing emotional shock.
+You have struck goshenite!
+You have struck black zircon!
+You have struck green tourmaline!
+A snow storm has come.
+It has started raining.
+You have struck purple spinel!
+Mîrul ErushunÉl, expedition leader cancels Give Water: No water source.
+x2
+Kib Étastoddom, Mason cancels Give Water: No water source.
+Aban Sedurkeskal, Carpenter cancels Give Water: No water source.
+You have struck hornblende!
+Mîrul ErushunÉl, expedition leader cancels Give Water: No water source.
+x2
+Cut brown zircon (5) has been completed.
+Spring has arrived!
