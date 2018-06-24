@@ -99,3 +99,45 @@ loop path fail: <same square> dwarf,45,20,94 -> 48,20,94: Id #1067:Path Goal See
 loop path fail: <same square> dog,39,26,94 -> 13,29,94: Id #1137:Path Goal Seek Station:Station Owner at 12,28,94
 loop path fail: <same square> turkey hen,47,20,94 -> 49,22,94: Id #713:Path Goal Seek Station:Station Mill Building at 42,24,94
 loop path fail: <same square> dwarf,44,20,94 -> 43,18,94: Id #957:Path Goal Seek Station:Station Mill Building at 42,18,94
+path fail: forgotten beast,180,11,83 -> 180,7,86: Id #257:Path Goal Marauder Mill:Station None at 180,11,83
+DOUBLE TAGGED ITEM: Store Item in Stockpile, hazel wood logs
+DOUBLE TAGGED ITEM: Store Item in Stockpile, hazel wood logs
+path fail: human,Cause Trouble,191,109,109 -> 94,91,110: Id #108:Path Goal Thief Target:Station None at 191,109,109
+path fail: dwarf,Cause Trouble,191,113,109 -> 94,91,110: Id #113:Path Goal Thief Target:Station None at 191,113,109
+path fail: human,Cause Trouble,191,115,109 -> 94,91,110: Id #111:Path Goal Thief Target:Station None at 191,115,109
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: human,Cause Trouble,191,129,109 -> 94,91,110: Id #108:Path Goal Thief Target:Station None at 191,129,109
+path fail: dwarf,Cause Trouble,191,130,109 -> 94,91,110: Id #113:Path Goal Thief Target:Station None at 191,130,109
+path fail: human,Cause Trouble,191,130,109 -> 94,91,110: Id #111:Path Goal Thief Target:Station None at 191,130,109
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: human,Cause Trouble,191,174,115 -> 94,91,110: Id #108:Path Goal Thief Target:Station None at 191,174,115
+path fail: dwarf,Cause Trouble,191,177,115 -> 94,91,110: Id #113:Path Goal Thief Target:Station None at 191,177,115
+path fail: human,Cause Trouble,191,172,115 -> 94,91,110: Id #111:Path Goal Thief Target:Station None at 191,172,115
+path fail: dwarf,Construct rock Millstone,46,21,109 -> 73,33,94: Id #688:Path Goal Work at Building:Station Mill Building at 78,37,93
+path fail: dwarf,Construct wooden Bin,47,40,109 -> 52,8,93: Id #691:Path Goal Work at Building:Station None at 138,43,109
+path fail: dwarf,Construct Building,124,19,109 -> 123,18,109: Id #685:Path Goal Main Job Building:Station Mill Building at 80,20,93
+path fail: dog,172,12,109 -> 171,12,109: Id #1138:Path Goal Seek Station:Station Owner at 173,11,109
+path fail: dwarf,Fell Tree,154,11,109 -> 116,35,109: Id #1431:Path Goal Chop:Station Mill Building at 72,37,93
+DOUBLE TAGGED ITEM: Store Item in Stockpile, walnut wood logs
+DOUBLE TAGGED ITEM: Store Item in Stockpile, hazel wood logs
+path fail: human,Cause Trouble,191,128,109 -> 94,91,110: Id #108:Path Goal Thief Target:Station None at 191,128,109
+path fail: human,Cause Trouble,191,124,109 -> 94,91,110: Id #111:Path Goal Thief Target:Station None at 191,124,109
+path fail: dwarf,Cause Trouble,191,127,109 -> 94,91,110: Id #113:Path Goal Thief Target:Station None at 191,127,109
+path fail: dwarf,Gather Plants,146,38,109 -> 145,41,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 76,19,93
+path fail: dwarf,Gather Plants,172,20,109 -> 184,3,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 80,23,93
+path fail: dwarf,Gather Plants,162,39,109 -> 180,36,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 80,23,93
+path fail: dwarf,Gather Plants,170,34,109 -> 180,36,109: Id #690:Path Goal Gather Plant:Station Mill Building at 51,30,93
