@@ -1,3 +1,57 @@
 Loading bindings from data/init/interface.txt
+New window size: 640x300
+Font size: 8x12
+Resizing grid to 80x25
+Resizing font to 8x12
+
 Resetting textures
-Resetting textures
+New window size: 640x300
+Font size: 8x12
+Resizing grid to 80x25
+Resizing font to 8x12
+
+New window size: 1920x1017
+Font size: 8x12
+Resizing grid to 240x84
+Resizing font to 8x12
+
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x9
+Resizing font to 6x9
+Resizing font to 6x9
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 8x12
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 6x10
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 8x12
+Resizing font to 8x12
+Resizing font to 8x12
+Resizing font to 8x13
+Resizing font to 9x13
+Resizing font to 10x15
+Resizing font to 9x13
+Resizing font to 8x13
+Resizing font to 8x12
+Resizing font to 8x12
+Resizing font to 8x12
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 6x10
+Resizing font to 7x10
+Resizing font to 7x10
+Resizing font to 8x12
