@@ -6,3 +6,4 @@ Generating world using parameter set CREATE WORLD NOW = 1334534
  History Seed: iyAAA2uuuu6qy2Aummu2
  Name Seed: mqiiu6y6m6mmiiuy22mA
  Creature Seed: 2AqAAi22uqmqy6qyyiqA
+*** STARTING NEW GAME ***
