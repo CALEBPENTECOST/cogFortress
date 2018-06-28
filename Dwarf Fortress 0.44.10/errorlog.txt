@@ -141,3 +141,46 @@ path fail: dwarf,Gather Plants,146,38,109 -> 145,41,109: Id #1816:Path Goal Gath
 path fail: dwarf,Gather Plants,172,20,109 -> 184,3,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 80,23,93
 path fail: dwarf,Gather Plants,162,39,109 -> 180,36,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 80,23,93
 path fail: dwarf,Gather Plants,170,34,109 -> 180,36,109: Id #690:Path Goal Gather Plant:Station Mill Building at 51,30,93
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+path fail: dwarf,Gather Plants,147,18,109 -> 150,10,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 79,20,93
+loop path fail: <same square> ewe,51,14,93 -> 81,17,93: Id #1580:Path Goal Seek Station:Station Mill Building at 40,21,94
+path fail: dwarf,Gather Plants,98,17,108 -> 130,84,109: Id #906:Path Goal Gather Plant:Station Mill Building at 47,35,93
+path fail: dwarf,Load Cage Trap,67,16,108 -> 99,89,108: Id #1599:Path Goal Work at Building:Station Mill Building at 120,14,109
+path fail: dwarf,Return Kill,113,41,110 -> 132,98,34: Id #688:Path Goal Grab Kill:Station Mill Building at 44,33,93
+path fail: dwarf,Drink,33,13,86 -> 71,37,18: Id #687:Path Goal Seek Drink Item:Station Mill Building at 79,29,93
+path fail: dwarf,Drink,16,13,86 -> 61,39,18: Id #1594:Path Goal Seek Drink Item:Station Mill Building at 120,13,109
+path fail: dwarf,Drink,56,23,94 -> 65,39,18: Id #1595:Path Goal Seek Drink Item:Station Mill Building at 45,37,93
+path fail: dwarf,Drink,35,13,86 -> 64,39,18: Id #1424:Path Goal Seek Drink Item:Station Mill Building at 80,22,93
+path fail: dwarf,Prepare Lavish Meal,12,12,63 -> 72,17,94: Id #1582:Path Goal Grab Job Resources:Station Mill Building at 73,17,93
+path fail: dwarf,Drink,43,26,36 -> 56,23,94: Id #1575:Path Goal Grab Goblet:Station Meeting Location at 50,29,18
+path fail: dwarf,Fill Waterskin,10,12,63 -> 72,37,18: Id #1139:Path Goal Seek Drink Item:Station Mill Building at 66,30,93
+path fail: dwarf,Drink,10,12,63 -> 65,38,18: Id #686:Path Goal Seek Drink Item:Station Mill Building at 120,16,109
+path fail: dwarf,12,12,63 -> 80,4,93: Id #1135:Path Goal Combat Training:Station Mill Building at 124,16,109
+path fail: dwarf,Harvest Plants,12,12,63 -> 76,22,108: Id #1075:Path Goal Work at Building:Station Mill Building at 121,14,109
+path fail: dwarf,Drink,70,22,94 -> 70,38,18: Id #1070:Path Goal Seek Drink Item:Station Meeting Location at 71,29,18
+path fail: dwarf,Drink,15,13,86 -> 61,38,18: Id #1260:Path Goal Seek Drink Item:Station Insane Mood at 22,32,94
+path fail: dwarf,Drink,34,13,86 -> 21,24,84: Id #1430:Path Goal Start Water Job Drink Area:Station Mill Building at 74,22,93
+path fail: dwarf,Clean Self,34,13,86 -> 21,24,84: Id #1814:Path Goal Start Water Job Drink Area:Station Mill Building at 117,13,109
+path fail: dwarf,Construct Building,34,13,86 -> 81,63,18: Id #1431:Path Goal Main Job Building:Station Mill Building at 42,28,93
+path fail: dwarf,Construct olivine Throne,34,13,86 -> 76,26,18: Id #1601:Path Goal Work at Building:Station Mill Building at 72,20,93
+removed erroneous unit occupancy flag
+path fail: giant cave toad,184,12,83 -> 184,9,86: Id #2186:Path Goal Marauder Mill:Station None at 184,12,83
+path fail: dwarf,127,120,109 -> 110,137,110: Id #2292:Path Goal Flee Terrain:Station Milling Flood at 128,120,109
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (pine bucket)
+path fail: dwarf,Gather Plants,98,17,108 -> 161,41,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 65,32,93
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðwalnut wood bucketð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, (pine bucket)
+path fail: dwarf,Gather Plants,138,28,109 -> 145,9,109: Id #1816:Path Goal Gather Plant:Station Mill Building at 122,14,109
+path fail: dwarf,Gather Plants,131,47,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
+path fail: dwarf,Gather Plants,132,47,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
+path fail: dwarf,Gather Plants,133,44,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
+path fail: dwarf,Gather Plants,133,42,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
+path fail: dwarf,Gather Plants,132,42,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
+DOUBLE TAGGED ITEM: Store Item in Stockpile, granite mechanisms

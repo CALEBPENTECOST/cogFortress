@@ -1,17 +1,1 @@
 Loading bindings from data/init/interface.txt
-New window size: 640x300
-Font size: 8x12
-Resizing grid to 80x25
-Resizing font to 8x12
-
-Resetting textures
-New window size: 640x300
-Font size: 8x12
-Resizing grid to 80x25
-Resizing font to 8x12
-
-New window size: 1920x1018
-Font size: 8x12
-Resizing grid to 240x84
-Resizing font to 8x12
-

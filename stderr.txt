@@ -1,2 +1,2 @@
 Running PyLNP 0.13 (OS: win, Compiled: True)
-INFO: Read installed graphics (ASCII) from log
+INFO: Read installed graphics (Mayday) from log
