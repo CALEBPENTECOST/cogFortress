@@ -184,3 +184,19 @@ path fail: dwarf,Gather Plants,133,44,109 -> 157,32,109: Id #2457:Path Goal Gath
 path fail: dwarf,Gather Plants,133,42,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
 path fail: dwarf,Gather Plants,132,42,109 -> 157,32,109: Id #2457:Path Goal Gather Plant:Station None at 64,0,116
 DOUBLE TAGGED ITEM: Store Item in Stockpile, granite mechanisms
+loop path fail: <same square> beak dog,111,65,109 -> 109,71,109: Id #2646:Path Goal Seek Station:Station Commander at 105,70,109
+DOUBLE TAGGED ITEM: Store Item in Stockpile, willow ballista parts
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *gabbro door*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -gabbro door-
+path fail: dwarf,Construct Building,89,59,109 -> 88,59,109: Id #2200:Path Goal Main Job Building:Station Mill Building at 116,17,109
+DOUBLE TAGGED ITEM: Store Item in Stockpile, bronze ballista arrow head
+DOUBLE TAGGED ITEM: Store Item in Stockpile, large granite pot
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðcherry wood barrelð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, large granite pot
+DOUBLE TAGGED ITEM: Store Item in Stockpile, silver ballista arrow head
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðlarge gabbro potð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðlarge granite potð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ðlarge gneiss potð
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand pear wood barrel-
+DOUBLE TAGGED ITEM: Store Item in Stockpile, *large gabbro pot*
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -sand pear wood barrel-
