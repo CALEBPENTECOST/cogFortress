@@ -6,3 +6,2036 @@ Generating world using parameter set CREATE WORLD NOW = 1334534
  History Seed: iyAAA2uuuu6qy2Aummu2
  Name Seed: mqiiu6y6m6mmiiuy22mA
  Creature Seed: 2AqAAi22uqmqy6qyyiqA
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1333333
+ Seed: 4QCEUkiAAGyoggYMgoei
+ History Seed: qG8eGUMW0quIYCuO4yo8
+ Name Seed: Mcsc4c8A8O208E8sGioc
+ Creature Seed: e0So0qIWWCUGOmkqmSeS
+Generating world using parameter set CREATE WORLD NOW = 1333333
+ Seed: WGyUsmS0qaY26Om6gykW
+ History Seed: uyKMoa0Ia0w6SWiEeiqO
+ Name Seed: 6EMyiMaKE04SmyWEGASe
+ Creature Seed: CoAAoWAyueW8GguwmmQk
+Generating world using parameter set CREATE WORLD NOW = 2333333
+ Seed: 2qsWu82Cek8Ms468mGYM
+ History Seed: 8cgeQsSW8MOU0Qe8wgEu
+ Name Seed: kIiiM6uAkg2EQU8QiGek
+ Creature Seed: YUOKgC2wek2yu4ekA464
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1544343
+ Seed: TF6e3iyKmehJ3NxPdmXu
+ History Seed: 38yZ2CV8WFjmLsxA9Xta
+ Name Seed: vvELNgPHzKLcahlZBFTU
+ Creature Seed: CdaacAkaEMYpYrqII9rW
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Edzul Av‚dcatten, Miner cancels Give Water: Need empty bucket.
+You have struck microcline!
+x2
+You have struck native aluminum!
+You have struck native copper!
+You have struck native aluminum!
+You have struck native copper!
+You have struck microcline!
+Summer has arrived on the calendar.
+You have struck native aluminum!
+You have struck microcline!
+Make wooden Bucket (3) has been completed.
+Lokum Tomuskilrud has become a Mason.
+Construct Bed (5) has been completed.
+Some migrants have arrived.
+Construct Bed (2) has been completed.
+You have struck native aluminum!
+Construct rock Cabinet (6) has been completed.
+Construct rock Cabinet (1) has been completed.
+Construct rock Door (7) has been completed.
+Construct Bed (4) has been completed.
+Ed‰m TishisŠrith has become a Mason.
+Construct rock Door (4) has been completed.
+Construct rock Cabinet (4) has been completed.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+You have struck sphalerite!
+x2
+You have discovered an expansive cavern deep underground.
+You have struck native aluminum!
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+x3
+x4
+x5
+You have struck microcline!
+Autumn has arrived on the calendar.
+Construct rock Cabinet (1) has been completed.
+Construct Bed (1) has been completed.
+The outpost liaison S†kzul Ilral¢r from Nabassolon has arrived.
+A caravan from Nabassolon has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+Brew drink from plant (10) has been completed.
+Construct rock Table (10) has been completed.
+The merchants from Nabassolon will be leaving soon.
+Some migrants have arrived.
+Construct rock Throne (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+The merchants from Nabassolon have embarked on their journey.
+Construct rock Cabinet (1) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct rock Door (10) has been completed.
+There is nothing to catch in the central swamps.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+There is nothing to catch in the southern swamps.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct Bed (1) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct rock Cabinet (3) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+The troll's right upper leg takes the full force of the impact, bruising the muscle!
+The troll's right horn takes the full force of the impact and the severed part sails off in an arc!
+The troll's upper body takes the full force of the impact, bruising the muscle and bruising the left lung!
+The troll's left lower arm takes the full force of the impact, bruising the bone!
+The troll's left upper arm takes the full force of the impact and the part splits in gore!
+An artery has been opened by the attack!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct Bed (3) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+x4
+x5
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck microcline!
+You have struck pyrite!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck resin opal!
+Brew drink from plant (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+Lokum Tomuskilrud has become a chief medical dwarf.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Winter has arrived on the calendar.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct rock Door (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Make wooden Wheelbarrow (10) has been completed.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+Brew drink from plant (10) has been completed.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Milk Animal: No creature.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Tekkud Tarem†blel has become a Mechanic.
+Construct rock Mechanisms (20) has been completed.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+x2
+x3
+x4
+x5
+x6
+You have struck microcline!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+You have struck native aluminum!
+You have struck microcline!
+x2
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Spring has arrived on the calendar.
+You have struck tiger iron!
+The dead walk.  Hide while you still can!
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Forbidden area.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+x2
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Edzul Av‚dcatten, Miner cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Edzul Av‚dcatten, Miner cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Edzul Av‚dcatten, Miner cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Edzul Av‚dcatten, Miner cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Store Item in Stockpile: Item inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Store Item in Stockpile: Item inaccessible.
+You have struck microcline!
+Asmel K†tƒkoslan, Metalcrafter cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Store Item in Stockpile: Item inaccessible.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Brew drink from plant (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+You have struck native aluminum!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+You have struck microcline!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+You have struck native aluminum!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+You have struck native aluminum!
+You have struck microcline!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Give Water: No water source.
+x2
+x3
+x4
+x5
+Domas Momuzkin, Cook cancels Give Water: No water source.
+Imush Eshtƒnevon, Brewer cancels Give Water: No water source.
+x2
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Imush Eshtƒnevon, Brewer cancels Give Water: No water source.
+x2
+Domas Momuzkin, Cook cancels Give Water: No water source.
+You have struck tiger iron!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the left rear leg with her right hand, bruising the muscle!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the left front leg with her left hand, bruising the muscle!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit misses the wild boar sow!
+The wren woman recruit punches the wild boar sow in the left front hoof with her right hand, but the attack glances away!
+The force bends the left front leg!
+The wren woman recruit misses the wild boar sow!
+The wren woman recruit bites the wild boar sow in the lower body, tearing the fat!
+The wren woman recruit latches on firmly!
+The wild boar sow breaks the grip of The wren woman recruit's beak from The wild boar sow's lower body!
+The wren woman recruit bites the wild boar sow in the right rear hoof, but the attack glances away!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the right front leg with her right hand, bruising the fat!
+The wren woman recruit bites the wild boar sow in the right front leg, tearing the fat!
+The wren woman recruit punches the wild boar sow in the upper body with her left hand, bruising the muscle!
+The wren woman recruit punches the wild boar sow in the left front hoof with her left hand, but the attack glances away!
+The wren woman recruit punches the wild boar sow in the right front hoof with her right hand, but the attack glances away!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+Leba Boshkuctuc, Human Hammerman is visiting.
+The wren woman recruit punches the wild boar sow in the left rear hoof with her left hand, but the attack glances away!
+The force twists the left rear leg!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the upper body with her right hand, bruising the fat!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the right front hoof with her left hand, but the attack glances away!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit kicks the wild boar sow in the teeth with her right foot and the severed part sails off in an arc!
+The wren woman recruit punches the wild boar sow in the tail with her left hand, bruising the fat!
+The wren woman recruit punches the wild boar sow in the right front hoof with her right hand, but the attack glances away!
+The force bends the right front leg!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+The wren woman recruit misses the wild boar sow!
+The wren woman recruit punches the wild boar sow in the left rear hoof with her right hand, but the attack glances away!
+The wren woman recruit punches the wild boar sow in the right rear hoof with her left hand, but the attack glances away!
+The wren woman recruit punches the wild boar sow in the left tusk with her right hand, but the attack glances away!
+The wren woman recruit misses the wild boar sow!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the right front leg with her left hand, bruising the muscle!
+The wren woman recruit bites the wild boar sow in the right rear hoof, but the attack glances away!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the left front leg with her right hand, bruising the muscle!
+Ethela Meconipa, Wren Woman Recruit: I have improved my fighting.  That was satisfying.
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the right rear hoof with her left hand, but the attack glances away!
+The wren woman recruit punches the wild boar sow in the right front hoof with her right hand, but the attack glances away!
+The wren woman recruit snatches at the wild boar sow in the right front hoof with her first toe, right foot, but the attack glances away!
+The force pulls the right front leg!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit bites the wild boar sow in the right rear leg, tearing the fat and bruising the muscle!
+The wren woman recruit bites the wild boar sow in the right rear hoof, but the attack glances away!
+The wren woman recruit kicks the wild boar sow in the left rear leg with her right foot, bruising the muscle!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit bites the wild boar sow in the left front leg, tearing the fat and bruising the muscle!
+The wren woman recruit snatches at the wild boar sow in the upper body with her first toe, right foot, tearing the fat!
+The wild boar sow collapses and falls to the ground from over-exertion.
+The wren woman recruit attacks the wild boar sow but She scrambles away!
+The wild boar sow stands up.
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit punches the wild boar sow in the left front leg with her right hand, bruising the muscle!
+The wren woman recruit attacks the wild boar sow but She jumps away!
+The wren woman recruit snatches at the wild boar sow in the head with her first toe, right foot, tearing the fat and bruising the muscle!
+The wren woman recruit punches the wild boar sow in the upper body with her left hand, bruising the fat!
+The wren woman wrestler punches the wild boar sow in the lower body with her left hand, bruising the muscle and bruising the guts!
+The wild boar sow looks sick!
+The wren woman wrestler punches the wild boar sow in the right front hoof with her right hand, but the attack glances away!
+Ethela Meconipa, Wren Woman Wrestler: I have improved my striking.  That was satisfying.
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler kicks the wild boar sow in the lower body with her left foot, bruising the muscle and bruising the guts!
+The wild boar sow vomits.
+The wren woman wrestler snatches at the wild boar sow in the right rear leg with her first toe, right foot, tearing the fat and bruising the muscle!
+The wren woman wrestler bites the wild boar sow in the left rear hoof, but the attack glances away!
+The wild boar sow retches.
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+The wren woman wrestler snatches at the wild boar sow in the right ear with her first toe, right foot, tearing the cartilage!
+The force pulls the head!
+The wild boar sow collapses and falls to the ground from over-exertion.
+The wren woman wrestler kicks the wild boar sow in the head with her left foot, bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The wren woman wrestler punches the wild boar sow in the right front leg with her left hand, bruising the muscle!
+The wren woman wrestler kicks the wild boar sow in the left rear hoof with her left foot, but the attack glances away!
+The force twists the left rear leg!
+The wren woman wrestler snatches at the wild boar sow in the lower body with her first toe, right foot, tearing the fat and bruising the muscle and bruising the left kidney!
+The wild boar sow has become enraged!
+The wren woman wrestler snatches at the wild boar sow in the left rear leg with her first toe, right foot, tearing the fat and bruising the muscle!
+The wild boar sow attacks the wren woman wrestler but She jumps away!
+The wild boar sow vomits.
+The wren woman wrestler kicks the wild boar sow in the upper body with her left foot, bruising the muscle!
+The wren woman wrestler bites the wild boar sow in the lower body, tearing the fat!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of The wren woman wrestler's beak on the wild boar sow's lower body.
+The wren woman wrestler punches the wild boar sow in the upper body with her right hand, bruising the muscle and bruising the left lung!
+The wren woman wrestler punches the wild boar sow in the lower body with her left hand, bruising the fat and bruising the right kidney!
+The wild boar sow retches.
+The wren woman wrestler punches the wild boar sow in the upper body with her left hand, bruising the muscle and bruising the heart!
+The wren woman wrestler bites the wild boar sow in the right front hoof, but the attack glances away!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The wild boar sow has been knocked unconscious!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the fat!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wild boar sow vomits.
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wild boar sow retches.
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wild boar sow regains consciousness.
+The wild boar sow passes out from exhaustion.
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+Wild Boar Sow is no longer enraged.
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force pulls the neck, bruising the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, bruising the skin!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+Ethela Meconipa, Wren Woman Wrestler: I have improved my wrestling.  That was satisfying.
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wild boar sow regains consciousness.
+The wild boar sow passes out from exhaustion.
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, bruising the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+You have struck tiger iron!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wren woman wrestler punches the wild boar sow in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler punches the wild boar sow in the head with her right hand, bruising the muscle!
+The force twists the neck, bruising the skin!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+Construct rock Door (10) has been completed.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+You have struck red spinel!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck morion!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck morion!
+x2
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The wren woman wrestler misses the wild boar sow!
+The wren woman wrestler bites the wild boar sow in the left rear hoof, but the attack glances away!
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+The wren woman wrestler misses the wild boar sow!
+The wren woman wrestler punches the wild boar sow in the left front leg with her right hand, bruising the muscle!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck microcline!
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+The wren woman wrestler misses the wild boar sow!
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+Ethela Meconipa, Wren Woman Wrestler: I was out in the rain.  I feel so dejected...
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+The human hammerman bashes the wren woman wrestler in the right wing with her (copper war hammer), bruising the bone through the ({small rope reed robe})!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the left foot with her (copper war hammer), bruising the muscle through the ({small wombat leather sandal})!
+The human hammerman bashes the wren woman wrestler in the right lower arm with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the right wing with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left wing with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The wren woman wrestler charges at the human hammerman!
+The wren woman wrestler collides with the human hammerman!
+The wren woman wrestler is knocked over and tumbles backward!
+The human hammerman scratches the wren woman wrestler in the head, tearing the muscle through the x({small cuttlefish leather hood})x!
+The force twists the neck, bruising the skin!
+The wren woman wrestler stands up.
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Ethela Meconipa, Wren Woman Wrestler: How fleeting life is...  Begone fear!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left hand with her (copper war hammer), bruising the muscle through the ({small hemp left mitten})!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bites the wren woman wrestler in the third finger, right hand, bruising the skin through the ({small hemp right mitten})!
+The force bends the right hand, tearing apart the skin and bruising the right wrist's muscle!
+The wren woman wrestler misses the human hammerman!
+The human hammerman punches the wren woman wrestler in the right upper leg with her right hand, bruising the muscle through the ({small rope reed robe})!
+The force bends the right hip!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), bruising the bone through the ({small rope reed robe})!
+The force twists the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The wren woman wrestler falls over.
+The human hammerman bashes the wren woman wrestler in the right wing with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler bites the human hammerman in the right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), fracturing the bone through the ({small rope reed robe})!
+The force twists the right knee, tearing apart the muscle and tearing apart the muscle!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The human hammerman bashes the wren woman wrestler in the left hand with her (copper war hammer), fracturing the bone through the ({small hemp left mitten})!
+The force bends the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left wing with her (copper war hammer), bruising the bone through the ({small rope reed robe})!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The human hammerman bashes the wren woman wrestler in the right foot with her (copper war hammer), fracturing the bone through the ({small wombat leather sandal})!
+The force pulls the right ankle!
+The wren woman wrestler misses the human hammerman!
+The human hammerman punches the wren woman wrestler in the left lower leg with her left hand, bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the neck with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The human hammerman bashes the wren woman wrestler in the right upper leg with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The force pulls the right hip, tearing apart the muscle and tearing apart the muscle!
+Ethela Meconipa, Wren Woman Wrestler: I've been injured badly.  There is no hope!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The human hammerman bashes the wren woman wrestler in the head with her (copper war hammer), bruising the muscle through the x({small cuttlefish leather hood})x!
+The force pulls the neck, tearing apart the skin!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the gizzard through the ({small rope reed robe})!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the right upper leg with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The human hammerman bashes the wren woman wrestler in the fourth toe, left foot with her (copper war hammer), tearing apart the skin through the ({small wombat leather sandal})!
+The force pulls the left foot, tearing apart the skin and tearing apart the left ankle's muscle and bruising the bone!
+A ligament in the left ankle has been torn and a tendon has been torn!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left foot with her (copper war hammer), bruising the muscle through the ({small wombat leather sandal})!
+The human hammerman bashes the wren woman wrestler in the right upper arm with her (copper war hammer), fracturing the bone through the ({small rope reed robe})!
+The force twists the right shoulder!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the right upper arm with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The human hammerman bashes the wren woman wrestler in the left foot with her (copper war hammer), fracturing the bone through the ({small wombat leather sandal})!
+The force bends the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left upper arm with her (copper war hammer), bruising the bone through the ({small rope reed robe})!
+The force bends the left shoulder, bruising the muscle and bruising the muscle!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the liver through the ({small rope reed robe})!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the right upper leg with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+Leba Boshkuctuc, Human Hammerman: I have improved my fighting.  I am very satisfied.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman scratches the wren woman wrestler in the left hand, tearing the muscle through the x({small hemp left mitten})x!
+The force pulls the left wrist!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+Leba Boshkuctuc, Human Hammerman: I was attacked.  I'm panicking!  I'm panicking!
+The wren woman wrestler misses the human hammerman!
+Ethela Meconipa, Wren Woman Wrestler: I have improved my biting.  That was satisfying.
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The human hammerman bashes the wren woman wrestler in the right lower arm with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), bruising the muscle through the ({small rope reed robe})!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the left wing with her (copper war hammer), fracturing the bone through the ({small rope reed robe})!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman scratches the wren woman wrestler in the lower body, bruising the muscle and bruising the right kidney through the x({small llama wool cape})x!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The human hammerman bashes the wren woman wrestler in the left lower arm with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left hand with her (copper war hammer), bruising the bone through the x({small hemp left mitten})x!
+The force bends the left wrist, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the head with her (copper war hammer), bruising the muscle and bruising the skull through the x({small cuttlefish leather hood})x!
+The force bends the neck, tearing apart the skin!
+The human hammerman bashes the wren woman wrestler in the lower body with her (copper war hammer), bruising the muscle and bruising the stomach through the x({small rope reed robe})x!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the right hand with her (copper war hammer), bruising the bone through the ({small hemp right mitten})!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the liver through the x({small rope reed robe})x!
+The wren woman wrestler misses the human hammerman!
+The human hammerman bashes the wren woman wrestler in the left wing with her (copper war hammer), fracturing the bone through the x({small rope reed robe})x!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The human hammerman bashes the wren woman wrestler in the left foot with her (copper war hammer), bruising the muscle through the ({small wombat leather sandal})!
+The human hammerman bashes the wren woman wrestler in the left upper arm with her (copper war hammer), fracturing the bone through the x({small rope reed robe})x!
+The force bends the left shoulder!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler snatches at the human hammerman in the right lower arm with her first toe, right foot, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler bites the human hammerman in the upper body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler bites the human hammerman in the left upper arm, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler bites the human hammerman in the left upper leg, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler snatches at the human hammerman in the right upper leg with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The force twists the right hip!
+The wren woman wrestler bites the human hammerman in the left foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left upper leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's head.
+The wren woman wrestler bites the human hammerman in the left foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler bites the human hammerman in the right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The wren woman wrestler bites the human hammerman in the right lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler misses the human hammerman!
+The wren woman wrestler bites the human hammerman in the left hand, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler bites the human hammerman in the left upper arm, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The XX(large alpaca wool coat)XX is ripped to shreds!
+The force pulls the left shoulder!
+The wren woman wrestler bites the human hammerman in the right lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler attacks the human hammerman but She jumps away!
+The wren woman wrestler misses the human hammerman!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The wren woman wrestler snatches at the human hammerman in the head with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze helm)!
+The force twists the neck!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left foot with her (copper war hammer), bruising the muscle through the ({small wombat leather sandal})!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's head.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The human hammerman collapses and falls to the ground from over-exertion.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the upper body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's upper body.
+The wren woman wrestler bites the human hammerman in the right foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler bites the human hammerman in the left hand, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman punches the wren woman wrestler in the head with her right hand, bruising the muscle through the x({small cuttlefish leather hood})x!
+The force bends the neck, tearing apart the skin!
+The human hammerman bashes the wren woman wrestler in the left lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left hand.
+The wren woman wrestler bites the human hammerman in the left lower arm, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right upper leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left lower arm.
+The wren woman wrestler bites the human hammerman in the right lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The force twists the right knee!
+The wren woman wrestler snatches at the human hammerman in the upper body with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+Leba Boshkuctuc, Human Hammerman: I have improved my shield.  I am very satisfied.
+The wren woman wrestler snatches at the human hammerman in the right upper leg with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler bites the human hammerman in the right lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler bites the human hammerman in the third finger, right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the gizzard through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak from The human hammerman's third finger, right hand!
+The wren woman wrestler bites the human hammerman in the left lower arm, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the head with her (copper war hammer), bruising the muscle through the x({small cuttlefish leather hood})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left lower arm.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the head with her (copper war hammer), bruising the muscle through the x({small cuttlefish leather hood})x!
+The force pulls the neck, tearing apart the skin!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's head.
+The wren woman wrestler snatches at the human hammerman in the left lower arm with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The force pulls the left elbow!
+The wren woman wrestler bites the human hammerman in the left eye, tearing it through the x(large sheep wool dress)x!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left eye.
+The wren woman wrestler attacks the human hammerman but She rolls away!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the upper body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left upper arm with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's upper body.
+Leba Boshkuctuc, Human Hammerman: Can it all end so quickly?  Begone fear!
+The wren woman wrestler bites the human hammerman in the right ear, tearing the cartilage through the X(large sheep wool dress)X!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right wing with her (copper war hammer), but the attack glances away!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's right ear.
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right upper arm with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman misses the wren woman wrestler!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's lower body.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler snatches at the human hammerman in the right lower leg with her first toe, right foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The XX(large echidna leather cape)XX breaks!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the right hand with her (copper war hammer), but the attack glances away!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's lower body.
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left upper arm with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's lower body.
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler snatches at the human hammerman in the lower right back teeth with her first toe, left foot and the severed part sails off in an arc!
+The wren woman wrestler snatches at the human hammerman in the left upper leg with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The force pulls the left hip!
+Leba Boshkuctuc, Human Hammerman: I have improved my armor.  I am very satisfied.
+The wren woman wrestler snatches at the human hammerman in the lower body with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler bites the human hammerman in the left hand, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left lower arm with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak from The human hammerman's lower body!
+Ethela Meconipa, Wren Woman Wrestler: I have improved my kicking.  That was satisfying.
+The wren woman wrestler bites the human hammerman in the left cheek, tearing it through the XX(large sheep wool dress)XX!
+The XX(large sheep wool dress)XX is ripped to shreds!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the lower body with her (copper war hammer), bruising the muscle and bruising the left kidney through the x({small llama wool cape})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left cheek.
+The wren woman wrestler snatches at the human hammerman in the left lower leg with her first toe, left foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The force twists the left knee!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler bites the human hammerman in the left lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler strikes at the human hammerman but the shot is blocked with the (bronze shield)!
+The wren woman wrestler snatches at the human hammerman in the upper body with her first toe, right foot, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The wren woman wrestler bites the human hammerman in the left lower arm, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the left lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left lower arm.
+The wren woman wrestler grabs the human hammerman by the third toe, left foot with her left upper leg!
+The human hammerman bashes the wren woman wrestler in the right hand with her (copper war hammer), bruising the muscle through the ({small hemp right mitten})!
+The wren woman wrestler snatches at the human hammerman in the second finger, left hand with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The force bends the left hand, tearing apart the skin and tearing apart the left elbow's muscle!
+The human hammerman loses hold of the (bronze shield).
+Leba Boshkuctuc, Human Hammerman: I have improved my wrestling.  I am very satisfied.
+The human hammerman bashes the wren woman wrestler in the right foot with her (copper war hammer), bruising the muscle through the ({small wombat leather sandal})!
+The wren woman wrestler bites the human hammerman in the neck, bruising the skin through the (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's neck.
+The human hammerman bashes the wren woman wrestler in the right upper arm with her (copper war hammer), but the attack glances away!
+The wren woman wrestler bites the human hammerman in the right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The human hammerman bashes the wren woman wrestler in the lower body with her (copper war hammer), bruising the muscle and bruising the guts through the x({small llama wool cape})x!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and shattering the right floating ribs through the x({small llama wool cape})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's lower body.
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the left lung through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's lower body.
+Leba Boshkuctuc, Human Hammerman: I've been wounded.  That's very annoying.
+The human hammerman bashes the wren woman wrestler in the left wing with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The wren woman wrestler bites the human hammerman in the left upper leg, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The force pulls the left hip!
+The human hammerman bashes the wren woman wrestler in the right lower leg with her (copper war hammer), bruising the muscle through the x({small rope reed robe})x!
+The wren woman wrestler bites the human hammerman in the thumb, left hand, but the attack is deflected by the human hammerman's (large bronze left gauntlet)!
+The wren woman wrestler latches on firmly!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's thumb, left hand.
+The human hammerman bashes the wren woman wrestler in the upper body with her (copper war hammer), bruising the muscle and bruising the middle spine's bone through the x({small rope reed robe})x!
+The wren woman wrestler releases the grip of The wren woman wrestler's left upper leg on the human hammerman's third toe, left foot.
+The wren woman wrestler bites the human hammerman in the right lower arm, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The force pulls the right elbow, tearing apart the muscle and tearing apart the muscle!
+The human hammerman loses hold of the (copper war hammer).
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The XX(large rope reed hood)XX is ripped to shreds!
+The wren woman wrestler latches on firmly!
+The human hammerman scratches the wren woman wrestler in the left upper leg, bruising the muscle through the x({small rope reed robe})x!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's head.
+The wren woman wrestler bites the human hammerman in the left foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler latches on firmly!
+The human hammerman scratches the wren woman wrestler in the upper body, bruising the muscle through the X({small llama wool cape})X!
+The human hammerman breaks the grip of The wren woman wrestler's beak from The human hammerman's left foot!
+Leba Boshkuctuc, Human Hammerman: I've been injured badly.  This leaves me so shaken.
+The wren woman wrestler bites the human hammerman in the left upper leg, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman scratches the wren woman wrestler in the right wing, tearing the skin through the XX({small rope reed robe})XX!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's left upper leg.
+The wren woman wrestler bites the human hammerman in the upper body, bruising the skin through the (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman bites the wren woman wrestler in the right lower arm, bruising the muscle through the XX({small rope reed robe})XX!
+The XX({small rope reed robe})XX is ripped to shreds!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's upper body.
+The wren woman wrestler bites the human hammerman in the left lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler bites the human hammerman in the upper body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler snatches at the human hammerman in the right lower arm with her first toe, left foot, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The force bends the right elbow!
+The wren woman wrestler grabs the human hammerman by the lower left back teeth with her right wing!
+Leba Boshkuctuc, Human Hammerman: Help!  Save me!
+The human hammerman kicks the wren woman wrestler in the right upper leg with her right foot, bruising the muscle through the X({small orca leather dress})X!
+The wren woman wrestler bites the human hammerman in the right lower leg, but the attack is deflected by the human hammerman's (large copper high boot)!
+The wren woman wrestler latches on firmly!
+The human hammerman breaks the grip of The wren woman wrestler's beak on the human hammerman's right lower leg.
+The human hammerman kicks the wren woman wrestler in the head with her left foot, bruising the muscle through the x({small cuttlefish leather hood})x!
+The force twists the neck, tearing apart the skin!
+The wren woman wrestler releases the grip of The wren woman wrestler's right wing on the human hammerman's lower left back teeth.
+The wren woman wrestler bites the human hammerman in the left upper leg, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler bites the human hammerman in the lower body, but the attack is deflected by the human hammerman's (large bronze mail shirt)!
+The wren woman wrestler bites the human hammerman in the right hand, but the attack is deflected by the human hammerman's (large bronze right gauntlet)!
+The force twists the right wrist!
+The wren woman wrestler bites the human hammerman in the upper body, bruising the muscle through the (large bronze mail shirt)!
+The wren woman wrestler latches on firmly!
+The human hammerman breaks the grip of The wren woman wrestler's beak from The human hammerman's upper body!
+The wren woman wrestler bites the human hammerman in the left foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The human hammerman scratches the wren woman wrestler in the left upper arm, bruising the muscle through the XX({small orca leather dress})XX!
+The human hammerman bites the wren woman wrestler in the left upper arm, bruising the muscle through the XX({small orca leather dress})XX!
+The force pulls the left shoulder!
+The wren woman wrestler attacks the human hammerman but She rolls away!
+The human hammerman scratches the wren woman wrestler in the left hand, bruising the muscle through the x({small hemp left mitten})x!
+The wren woman wrestler snatches at the human hammerman in the first toe, right foot with her first toe, right foot, but the attack is deflected by the human hammerman's (large copper high boot)!
+The force bends the right foot!
+The human hammerman passes out from exhaustion.
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler grabs the human hammerman by the left hand with her left lower leg!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the human hammerman in the head, but the attack is deflected by the human hammerman's (large bronze helm)!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the human hammerman around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been bruised!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Kol K–bukk„l n, Brewer cancels Store Item in Stockpile: Item inaccessible.
+Ed‰m TishisŠrith, Mason cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Ineth Zulbanborush, Mason cancels Store Item in Stockpile: Item inaccessible.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Lokum Tomuskilrud, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Ed‰m TishisŠrith, Mason cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Lokum Tomuskilrud, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Lokum Tomuskilrud, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Lokum Tomuskilrud, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Stockpile: Item inaccessible.
+Kikrost N”korbomrek, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+Zon Sirabdakost, Planter cancels Store Item in Stockpile: Item inaccessible.
+Lokum Tomuskilrud, chief medical dwarf cancels Store Item in Stockpile: Item inaccessible.
+x2
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Item inaccessible.
+The wren woman wrestler attacks the wild boar but He jumps away!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck native aluminum!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Brew drink from plant (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+You have struck microcline!
+Imush Eshtƒnevon, Brewer cancels Give Water: No water source.
+x2
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+You have struck native aluminum!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Tekkud Tarem†blel, Mechanic cancels Store Item in Stockpile: Drop-off inaccessible.
+Imush Eshtƒnevon, Brewer cancels Store Item in Stockpile: Drop-off inaccessible.
+Edzul Av‚dcatten, Miner cancels Dig: Forbidden area.
+Kikrost N”korbomrek, Soap Maker cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck microcline!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+You have struck native aluminum!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Logem Sibrekmigrur, expedition leader cancels Store Item in Barrel: Job item misplaced.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+You have struck native aluminum!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck microcline!
+You have struck native aluminum!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+Construct rock Blocks (10) has been completed.
+Summer has arrived on the calendar.
+You have struck native aluminum!
+You have struck microcline!
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Brew drink from plant (10) has been completed.
+Imush Eshtƒnevon, Brewer cancels Drink: Well dry.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+x2
+Imush Eshtƒnevon, Brewer cancels Drink: Well dry.
+Tekkud Tarem†blel, Mechanic cancels Drink: Well dry.
+Asmel K†tƒkoslan, Metalcrafter cancels Drink: Well dry.
+Logem Sibrekmigrur, expedition leader cancels Drink: Well dry.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Zon Sirabdakost, Planter cancels Drink: Well dry.
+Mebzuth –thirzaneg, Miner cancels Drink: Well dry.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+x2
+Imush Eshtƒnevon, Brewer cancels Drink: Well dry.
+You have struck microcline!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+The wren woman wrestler bites the wild boar sow in the neck, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow stabs the wren woman wrestler in the third finger, left hand with her left tusk, bruising the skin through the X({small hemp left mitten})X!
+The force twists the left hand, tearing apart the skin!
+The wild boar sow breaks the grip of The wren woman wrestler's beak on the wild boar sow's neck.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+You have struck native aluminum!
+The wren woman wrestler attacks the wild boar sow but She jumps away!
+The wren woman wrestler snatches at the wild boar sow in the upper body with her first toe, left foot, tearing the fat!
+The wren woman wrestler bites the wild boar sow in the right rear hoof, but the attack glances away!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's right rear hoof.
+Utes Malignedleaps's corpse kicks the wild boar sow in the tail with her right foot, bruising the muscle!
+Utes Malignedleaps's corpse punches the wild boar sow in the left tusk with her right hand and the severed part sails off in an arc!
+The wren woman wrestler bites the wild boar sow in the left rear hoof, but the attack glances away!
+The force pulls the left rear leg!
+The wren woman wrestler bites the wild boar sow in the left front leg, tearing the fat and bruising the muscle!
+The wren woman wrestler bites the wild boar sow in the upper body, tearing the fat!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's upper body.
+The wren woman wrestler bites the wild boar sow in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wild boar sow looks sick!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of The wren woman wrestler's beak from The wild boar sow's lower body!
+The wren woman wrestler bites the wild boar sow in the head, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow collapses and falls to the ground from over-exertion.
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's head.
+The wren woman wrestler bites the wild boar sow in the upper body, tearing the fat!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's upper body.
+The wild boar sow vomits.
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the left rear leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's left rear leg.
+The wren woman wrestler bites the wild boar sow in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's lower body.
+The wren woman wrestler bites the wild boar sow in the left front hoof, but the attack glances away!
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the left rear hoof, but the attack glances away!
+The wild boar sow retches.
+The wren woman wrestler snatches at the wild boar sow in the right rear leg with her first toe, right foot, tearing the fat and bruising the muscle!
+The wild boar sow retches.
+The wren woman wrestler snatches at the wild boar sow in the head with her first toe, right foot, tearing the fat and bruising the muscle!
+The wild boar sow has been stunned!
+The force twists the neck!
+The wren woman wrestler bites the wild boar sow in the right tusk, but the attack glances away!
+The wren woman wrestler latches on firmly!
+The wild boar sow vomits.
+The wild boar sow kicks the wren woman wrestler in the right hand with her left front hoof, but the attack glances away!
+The wild boar sow breaks the grip of The wren woman wrestler's beak on the wild boar sow's right tusk.
+The wren woman wrestler bites the wild boar sow in the left rear leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's left rear leg.
+The wren woman wrestler snatches at the wild boar sow in the neck with her first toe, left foot, tearing the fat and bruising the muscle!
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the upper body, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's upper body.
+The wren woman wrestler snatches at the wild boar sow in the left eye with her first toe, left foot, tearing it!
+The force bends the head!
+The wren woman wrestler bites the wild boar sow in the left rear leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's left rear leg.
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the right front leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's right front leg.
+The wren woman wrestler snatches at the wild boar sow in the upper body with her first toe, right foot, tearing the fat and bruising the muscle and bruising the right lung!
+The wild boar sow is having trouble breathing!
+The wren woman wrestler snatches at the wild boar sow in the right front leg with her first toe, right foot, tearing the fat and bruising the muscle!
+The wild boar sow is no longer stunned.
+The wren woman wrestler bites the wild boar sow in the left front leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow misses the wren woman wrestler!
+The wild boar sow breaks the grip of The wren woman wrestler's beak on the wild boar sow's left front leg.
+The wren woman wrestler bites the wild boar sow in the head, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's head.
+The wild boar sow vomits.
+The wren woman wrestler bites the wild boar sow in the upper body, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+Ethela Meconipa, Wren Woman Wrestler: I have improved my dodging.  That was satisfying.
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's upper body.
+The wren woman wrestler bites the wild boar sow in the upper body, tearing the fat and bruising the muscle and bruising the heart!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's upper body.
+The wren woman wrestler bites the wild boar sow in the right front leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow breaks the grip of the wren woman wrestler's beak on The wild boar sow's right front leg.
+The wren woman wrestler bites the wild boar sow in the left front leg, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow passes out from exhaustion.
+The wren woman wrestler shakes the wild boar sow around by the left front leg, tearing apart the left front leg's skin and bruising the fat!
+The wild boar sow retches.
+The wren woman wrestler bites the wild boar sow in the head, tearing the fat and bruising the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+Tekkud Tarem†blel, Mechanic cancels Link a Building to Trigger: Could not find path.
+The dwarves suspended a linkage from microcline Lever.
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wild boar sow regains consciousness.
+The wild boar sow passes out from exhaustion.
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs plump helmet spawn.
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat!
+A tendon in the skull has been bruised!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The wren woman wrestler bites the wild boar sow in the head, tearing apart the muscle!
+The wren woman wrestler latches on firmly!
+The wren woman wrestler shakes the wild boar sow around by the head, tearing apart the head's fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck tigereye!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck native aluminum!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck pinfire opal!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck native aluminum!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable item.
+x2
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck bloodstone!
+Brew drink from plant (10) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+You have struck bloodstone!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck pinfire opal!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck tiger iron!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+You have struck tigereye!
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Imush Eshtƒnevon, Brewer cancels Process Plants: Needs unrotten processable plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs pig tail seeds.
+Domas Momuzkin has cooked a masterpiece!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs sweet pod seeds.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck tigereye!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Brew drink from plant (10) has been completed.
+You have struck tiger iron!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct wooden Bin (20) has been completed.
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+x3
+The dwarf pikedwarf corpse attacks the aardvark but She jumps away!
+The dwarf pikedwarf corpse stabs the aardvark in the upper body with his ({silver pike}), tearing the muscle and tearing the right lung!
+An artery has been opened by the attack!
+The aardvark is having trouble breathing!
+The ({silver pike}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse pulls on the embedded ({silver pike}).
+The dwarf pikedwarf corpse gains possession of the ({silver pike}).
+The dwarf pikedwarf corpse stabs the aardvark in the right rear paw with his ({silver pike}), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The dwarf pikedwarf corpse attacks the aardvark but She jumps away!
+The dwarf pikedwarf corpse scratches the aardvark in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The force pulls the neck, tearing apart the fat!
+The aardvark has become enraged!
+The dwarf pikedwarf corpse stabs the aardvark in the left rear leg with his ({silver pike}), tearing the muscle!
+An artery has been opened by the attack!
+The aardvark falls over.
+The aardvark bites the dwarf pikedwarf corpse in the upper body, bruising the fat through the x({hemp robe})x!
+The dwarf pikedwarf corpse stabs the aardvark in the right front paw with his ({silver pike}) and the severed part sails off in an arc!
+The aardvark scratches the dwarf pikedwarf corpse in the upper left back teeth and the severed part sails off in an arc!
+The dwarf pikedwarf corpse stabs the aardvark in the tail with his ({silver pike}) and the severed part sails off in an arc!
+The aardvark bites the dwarf pikedwarf corpse in the head, but the attack is deflected by the dwarf pikedwarf corpse's ({bronze helm})!
+The aardvark latches on firmly!
+The dwarf pikedwarf corpse stabs the aardvark in the right rear paw with his ({silver pike}) and the severed part sails off in an arc!
+The aardvark scratches the dwarf pikedwarf corpse in the mouth, bruising the left cheek's skin through the XX({hemp robe})XX!
+The force twists the head!
+The dwarf pikedwarf corpse kicks the aardvark in the fourth left rear toe with his right foot, shattering the nail!
+The force twists the left rear paw, tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The aardvark scratches the dwarf pikedwarf corpse in the lower body, but the attack is deflected by the dwarf pikedwarf corpse's ({bronze mail shirt})!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+You have struck pipe opal!
+Domas Momuzkin, Cook cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Logem Sibrekmigrur, expedition leader cancels Cut pinfire opal: Needs rough pinfire opals.
+Logem Sibrekmigrur, expedition leader cancels Cut tigereye: Needs rough tigereyes.
+Logem Sibrekmigrur, expedition leader cancels Cut resin opal: Needs rough resin opals.
+Logem Sibrekmigrur, expedition leader cancels Cut pyrite: Needs rough pyrites.
+Logem Sibrekmigrur, expedition leader cancels Cut tiger iron: Needs rough tiger irons.
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+x3
+Brew drink from plant (10) has been completed.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs pig tail seeds.
+Kol K–bukk„l n, Brewer cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+x2
+x3
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Autumn has arrived on the calendar.
+Logem Sibrekmigrur, expedition leader cancels Cut pipe opal: Needs rough pipe opals.
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs cave wheat seeds.
+x2
+Logem Sibrekmigrur, expedition leader cancels Cut resin opal: Needs rough resin opals.
+Zon Sirabdakost, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+Zon Sirabdakost, Planter cancels Store Item in Barrel: Job item misplaced.
+Ed‰m TishisŠrith, Mason cancels Plant Seeds: Needs pig tail seeds.
+x2
+Make Charcoal (10) has been completed.
+Brew drink from plant (10) has been completed.
+The dwarf pikedwarf corpse stabs the giant grasshopper in the left third foot with his ({silver pike}), chipping the chitin!
+A ligament has been torn and a tendon has been torn!
+Logem Sibrekmigrur, expedition leader cancels Plant Seeds: Needs pig tail seeds.
+Asmel K†tƒkoslan, Metalcrafter cancels Forge copper pick: Needs 1 copper bars.
+You have struck resin opal!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+You have struck native copper!
+You have struck microcline!
+You have struck native aluminum!
+–sbu Monsterwoods's corpse punches the wild boar in the upper body with his left hand, bruising the muscle and bruising the liver!
+–sbu Monsterwoods's corpse punches the wild boar in the left tusk with his left hand, but the attack glances away!
+Construct rock Quern (1) has been completed.
+You have struck native aluminum!
+You have struck resin opal!
+x2
+You have struck native copper!
+You have struck native aluminum!
+Tekkud Tarem†blel, Mechanic cancels Plant Seeds: Needs pig tail seeds.
+x2
+You have struck pyrite!
+You have struck microcline!
+You have struck native aluminum!
+You have struck microcline!
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+You have struck microcline!
+You have struck native aluminum!
+Make Charcoal (20) has been completed.
+You have struck microcline!
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Process Plants (10) has been completed.
+You have struck microcline!
+x2
+You have struck native aluminum!
+x2
+You have struck bloodstone!
+You have struck pipe opal!
+Logem Sibrekmigrur, expedition leader cancels Cut pinfire opal: Needs rough pinfire opals.
+Smelt native copper Ore (5) has been completed.
+You have struck tiger iron!
+You have struck native copper!
+Forge copper pick (5) has been completed.
+Winter has arrived on the calendar.
+Lokum Tomuskilrud, chief medical dwarf cancels Fertilize Field: Needs potash.
+Process Plants (10) has been completed.
+Logem Sibrekmigrur, expedition leader cancels Cut tigereye: Needs rough tigereyes.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+It has started raining.
+Loaded region2, Numsil (The Windy Plane) at coordinates (1,3)
+Loaded the fortress N•mkol (Godlywheel), colonized by the group Et„gingish Ishen (The Big Bodices of Passion) of the civilization Nabassolon (The Divine Flag).
+Ineth Zulbanborush, Mason cancels Mill Plants: Needs empty bag.
+x2
+Imush Eshtƒnevon, Brewer cancels Mill Plants: Needs empty bag.
+Process Plants (10) has been completed.
+Ed‰m TishisŠrith, Mason cancels Construct cloth Bag: Needs 1 unused plant cloth.
+You have struck tiger iron!
+Ineth Zulbanborush, Mason cancels Mill Plants: Needs empty bag.
+x2
+x3
+x4
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Ineth Zulbanborush, Mason cancels Mill Plants: Needs empty bag.
+You have struck tigereye!
+Ineth Zulbanborush, Mason cancels Mill Plants: Needs empty bag.
+x2
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+It has started raining.
+Loaded region2, Numsil (The Windy Plane) at coordinates (1,3)
+Loaded the fortress N•mkol (Godlywheel), colonized by the group Et„gingish Ishen (The Big Bodices of Passion) of the civilization Nabassolon (The Divine Flag).
+Imush Eshtƒnevon has become a Farmer.
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Ed‰m TishisŠrith, Mason cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Imush Eshtƒnevon, Farmer cancels Mill Plants: Needs empty bag.
+x2
+Logem Sibrekmigrur, expedition leader cancels Cut tiger iron: Needs rough tiger irons.
+Imush Eshtƒnevon, Farmer cancels Mill Plants: Needs empty bag.
+x2
+You have struck pipe opal!
+Imush Eshtƒnevon, Farmer cancels Mill Plants: Needs empty bag.
+You have struck pinfire opal!
+Imush Eshtƒnevon, Farmer cancels Mill Plants: Needs empty bag.
+x2
+You have struck pinfire opal!
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+You have struck bloodstone!
+Imush Eshtƒnevon, Farmer cancels Mill Plants: Needs empty bag.
+x2
+x3
+You have struck tiger iron!
+You have struck tigereye!
+You have struck bloodstone!
+Ineth Zulbanborush has become a Woodcrafter.
+You have struck tiger iron!
+Construct cloth Bag (10) has been completed.
+Make wooden Pot (20) has been completed.
+Ed‰m TishisŠrith, Mason cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+x2
+Tekkud Tarem†blel has become a Miner.
+Mill Plants (10) has been completed.
+Kikrost N”korbomrek has become a Miner.
+Process Plants (10) has been completed.
+Spring has arrived on the calendar.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
